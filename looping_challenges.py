@@ -31,7 +31,7 @@ def challenge_4():
 	print('Challenge 4:')
 	for x in range(1,5):
 		for i in range(5,8):
-			print(x, '|', i, '|', x*i)
+			print('%d | %d| %d' % (x, i, x*i)) 
 	print()
 
 def challenge_5():	
