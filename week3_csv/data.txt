@@ -1,0 +1,2 @@
+Total white = 14467
+Total black = 22410
