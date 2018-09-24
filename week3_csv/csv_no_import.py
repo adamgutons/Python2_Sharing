@@ -1,3 +1,4 @@
+# w/ help from my classmate Coral, their nice work can be found here: https://github.com/csheldonhess/cit-129/blob/master/week3/JailStats/nocsv.py 
 # set counters
 white = 0
 black = 0
