@@ -1,5 +1,30 @@
 # w/ help from my classmate Coral, their nice work can be found here: https://github.com/csheldonhess/cit-129/blob/master/week3/JailStats/nocsv.py 
-# set counters
+white = 0
+black = 0
+t = True
+writeFile = open('data.txt', 'w')
+with open('jail.csv', 'r') as file:
+	header = file.readline().rstrip()
+	header = header.split(',')
+	while t:
+		body = file.readline()
+		if body == '':
+			t = False
+		else:
+			body = body.rstrip()
+			body = body.split(',')
+			d = dict(zip(header, body))
+			if d['Race'] == 'W':
+				white += 1
+			if d['Race'] == 'B':
+				black += 1
+	writeFile.write('Total white = %d\n' % white)
+	writeFile.write('Total black = %d' % black)
+	print('Count written to data.txt')			
+
+"""
+commented code
+
 white = 0
 black = 0
 # set bool for getting out of read loop
@@ -36,3 +61,5 @@ with open('jail.csv', 'r') as file:
 	writeFile.write('Total white = ' + str(white) + '\n')
 	writeFile.write('Total black = ' + str(black) + '\n')
 	print('Count written to data.txt')			
+
+"""
