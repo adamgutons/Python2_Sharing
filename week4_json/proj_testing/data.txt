@@ -1,0 +1,29 @@
+{
+    "area": [
+        "Facility Improvement",
+        "Administration/Sub-Award",
+        "Neighborhood and Community Development",
+        "Engineering and Construction"
+    ],
+    "status": [
+        "In Progress",
+        "Planned",
+        "Completed",
+        "Canceled"
+    ],
+    "asset_type": [
+        "Step",
+        "Pool",
+        "Non-Asset",
+        "Court",
+        "Retaining Wall",
+        "Playground",
+        "Bridge",
+        "Playing Field",
+        "Signalized Intersection",
+        "Roofing System",
+        "Sidewalk",
+        "Park",
+        "Facility"
+    ]
+}
