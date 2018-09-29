@@ -65,7 +65,6 @@ comparedToWhat = input('Enter next value >> ')
 for p in dictFromCgCap['features']:
 	findByJsonKey(p['properties'], whatToFind, comparedToWhat)
 #reportDict = dict(zip(searchList, compareList))
-reportDict = dict(whatToFind=searchList, comparedToWhat=compareList)
 #reportList = reportDict[whatToFind]
 print(searchCriteria, '\t|', whatToFind, '\t|', comparedToWhat)
 #!!!! CRITICAL! What I originally did above was dict(zip()) into reportDict
