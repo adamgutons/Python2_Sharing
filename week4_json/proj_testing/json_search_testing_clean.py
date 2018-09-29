@@ -64,14 +64,6 @@ whatToFind = input('Enter value to find for all %s >> ' % (searchCriteria))
 comparedToWhat = input('Enter next value >> ')
 for p in dictFromCgCap['features']:
 	findByJsonKey(p['properties'], whatToFind, comparedToWhat)
-#reportDict = dict(zip(searchList, compareList))
-#reportList = reportDict[whatToFind]
 print(searchCriteria, '\t|', whatToFind, '\t|', comparedToWhat)
-#!!!! CRITICAL! What I originally did above was dict(zip()) into reportDict
-#however when i would print the dict by key value, any duplicate numbers
-#from the json file would be removed...to avoid this, use zip and iterate through
-#the unique tuples created.  this allows something like budget and year to be printed
-#for a certain asset_types....before, if records had the same budget, it 
-#did not make the dictionary...
 for n, g in zip(searchList, compareList):
 	print(n, g)
