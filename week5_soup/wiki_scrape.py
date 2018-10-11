@@ -25,7 +25,7 @@ def getSomeSoup(resp_data, searchURL): # print or write soup data to csv file
 		linkDict[l] = searchURL + '#' + l # gives us link to topic inner page...wikipedia is badass 
 										  # b/c pretty much any search criteria will match, uppercase, lower, etc
 	for k in linkDict:
-		print(k, linkDict[k])
+		print(k, '||', linkDict[k])
 		#with open('names.csv', 'w', newline='') as csvfile: # open a csv file
 		#	spamwriter = csv.writer(csvfile, delimiter=' ', quotechar='|') # create a csv writer
 		#	spamwriter.writerow(l) # need to write list object, so take l and write the whole thing
