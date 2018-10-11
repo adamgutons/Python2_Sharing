@@ -4,7 +4,7 @@ import csv
 
 def generateSearchURL(): # input what you want to search, append this string to wikipedias search URL and return it
 	search = input('Search >> ')
-	search = search.replace(' ', '_')
+	search = search.replace(' ', '_') # needed for replacing spaces, so searching by name
 	base = "https://www.wikipedia.org/wiki/"
 	return base + search
 
@@ -36,7 +36,9 @@ def getSomeSoup(resp_data, searchURL): # print or write soup data to csv file
 
 def main():
 	searchURL = generateSearchURL()	
-	resp_data = setResponsesURL(searchURL)
-	getSomeSoup(resp_data, searchURL)
-	
+	try:
+		resp_data = setResponsesURL(searchURL)
+		getSomeSoup(resp_data, searchURL)
+	except:
+		print("Sorry, something went wrong with your search...please try again")
 main()
