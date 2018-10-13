@@ -1,29 +1,29 @@
 {
-    "area": [
-        "Neighborhood and Community Development",
-        "Administration/Sub-Award",
-        "Facility Improvement",
-        "Engineering and Construction"
-    ],
     "status": [
-        "Planned",
-        "In Progress",
         "Canceled",
-        "Completed"
+        "Completed",
+        "Planned",
+        "In Progress"
     ],
     "asset_type": [
+        "Roofing System",
+        "Court",
         "Non-Asset",
         "Step",
-        "Court",
-        "Bridge",
-        "Playground",
-        "Playing Field",
-        "Park",
-        "Retaining Wall",
         "Signalized Intersection",
-        "Roofing System",
         "Sidewalk",
+        "Playing Field",
+        "Playground",
+        "Retaining Wall",
+        "Park",
         "Pool",
-        "Facility"
+        "Facility",
+        "Bridge"
+    ],
+    "area": [
+        "Administration/Sub-Award",
+        "Engineering and Construction",
+        "Neighborhood and Community Development",
+        "Facility Improvement"
     ]
 }

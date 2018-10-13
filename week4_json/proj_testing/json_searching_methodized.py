@@ -60,6 +60,7 @@ def enterSearchCriteria(dictFromJSONSearch):
 	searchValues = dictFromJSONSearch[searchCategory]
 	searchValues.sort()
 	for value in searchValues: print(value)
+	print() #new line for formatting
 	searchCriteria = input('Which %s to search by? >> ' % (searchCategory))
 	options = """
 	id, status, asset_type, asset_id, area, start_date, area,
@@ -92,13 +93,16 @@ def printSearchResults(searchCriteria, whatToFind, comparedToWhat, searchList, c
 		print('\t', n, '\t', g)
 
 def main():
-	dictFromCgCap = load_JSON()
-	uniqueAreaList, uniqueAssetList, uniqueStatusList = AssembleAllLists(dictFromCgCap)
-	bigSearchDict = createBigDict(uniqueAreaList, uniqueAssetList, uniqueStatusList)
-	dictFromJSONSearch = loadingJson(bigSearchDict)
-	searchCriteria, whatToFind, comparedToWhat = enterSearchCriteria(dictFromJSONSearch)
-	searchList, compareList = findByJsonKey(dictFromCgCap, searchCriteria, whatToFind, comparedToWhat)
-	writeResultsJson(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
+	try:
+		dictFromCgCap = load_JSON()
+		uniqueAreaList, uniqueAssetList, uniqueStatusList = AssembleAllLists(dictFromCgCap)
+		bigSearchDict = createBigDict(uniqueAreaList, uniqueAssetList, uniqueStatusList)
+		dictFromJSONSearch = loadingJson(bigSearchDict)
+		searchCriteria, whatToFind, comparedToWhat = enterSearchCriteria(dictFromJSONSearch)
+		searchList, compareList = findByJsonKey(dictFromCgCap, searchCriteria, whatToFind, comparedToWhat)
+		writeResultsJson(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
+	except:
+		print("Sorry, something went wrong with the search...please check user entry.")
 	#printSearchResults(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
 
 main()
