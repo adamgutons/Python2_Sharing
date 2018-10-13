@@ -34,7 +34,10 @@ def createUniqueLists(l):
 	uniqueList = list(set(l))
 	return uniqueList
 
-def AssembleAllLists(dictFromCgCap, areaList, assetList, statusList):
+def AssembleAllLists(dictFromCgCap):
+	areaList = []
+	assetList = []
+	statusList = []
 	for p in dictFromCgCap['features']:
 		uniqueAreaList = createUniqueLists(AssembleAreaList(p['properties'], areaList))	
 		uniqueAssetList = createUniqueLists(AssembleAssetList(p['properties'], assetList))
@@ -77,57 +80,25 @@ def findByJsonKey(dictFromCgCap, searchCriteria, whatToFind, comparedToWhat):
 				compareList.append(p['properties'][comparedToWhat]) 
 	return searchList, compareList
 
+def writeResultsJson(searchCriteria, whatToFind, comparedToWhat, searchList, compareList):
+	anotherDict = dict([(whatToFind, searchList), (comparedToWhat, compareList)]) # neat way to build a dicts
+	finalDict = dict([(searchCriteria, finalDict)]) # build a dict w/ the searchCriteria as key, values are what use3r wants to look for, ex id, budgeted_amount
+	json.dump(finalDict, open('new_data.txt', 'w'), indent=4)
+	print("JSON file written...")
+
 def printSearchResults(searchCriteria, whatToFind, comparedToWhat, searchList, compareList):
 	print(searchCriteria, '\t|', whatToFind, '\t|', comparedToWhat)
-	#!!!! CRITICAL! What I originally did above was dict(zip()) into reportDict
-	#however when i would print the dict by key value, any duplicate numbers
-	#from the json file would be removed...to avoid this, use zip and iterate through
-	#the unique tuples created.  this allows something like budget and year to be printed
-	#for a certain asset_types....before, if records had the same budget, it 
-	#did not make the dictionary b/c dictionary keys are UNIQUE
 	for n, g in zip(searchList, compareList):
 		print('\t', n, '\t', g)
 
 def main():
-	areaList = []	
-	assetList = []
-	statusList = []
-	#searchList = []
-	#compareList = []
-	#cgCapFile = open('cgcapitalprojects_img.geojson.json', 'r')
 	dictFromCgCap = load_JSON()
-	uniqueAreaList, uniqueAssetList, uniqueStatusList = AssembleAllLists(dictFromCgCap, areaList, assetList, statusList)
-	#uniqueAreaList = list(set(areaList))
-	#uniqueAssetList = list(set(assetList))
-	#uniqueStatusList = list(set(statusList))
-	#removeEmptyValFromAreaList(uniqueAreaList)
+	uniqueAreaList, uniqueAssetList, uniqueStatusList = AssembleAllLists(dictFromCgCap)
 	bigSearchDict = createBigDict(uniqueAreaList, uniqueAssetList, uniqueStatusList)
-	#bigSearchDict = dict(area=uniqueAreaList, asset_type=uniqueAssetList, status=uniqueStatusList)
 	dictFromJSONSearch = loadingJson(bigSearchDict)
 	searchCriteria, whatToFind, comparedToWhat = enterSearchCriteria(dictFromJSONSearch)
 	searchList, compareList = findByJsonKey(dictFromCgCap, searchCriteria, whatToFind, comparedToWhat)
-	printSearchResults(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
-	#json.dump(bigSearchDict, open('data.txt', 'w'), indent=4)
-	#jsonSearchFile = open('data.txt', 'r')
-	#dictFromJSONSearch = json.load(jsonSearchFile)
-	#searchCategory = input('Enter search criteria (area, status, asset_type) >> ')
-	#searchValues = dictFromJSONSearch[searchCategory]
-	#searchValues.sort()
-	#for value in searchValues: print(value)
-	#searchCriteria = input('Which %s to search by? >> ' % (searchCategory))
-	#print(options)
-	#whatToFind = input('Enter value to find for all %s >> ' % (searchCriteria))
-	#comparedToWhat = input('Enter next value >> ')
-	#for p in dictFromCgCap['features']:
-	#	findByJsonKey(p['properties'], whatToFind, comparedToWhat)
-	#print(searchCriteria, '\t|', whatToFind, '\t|', comparedToWhat)
-	#!!!! CRITICAL! What I originally did above was dict(zip()) into reportDict
-	#however when i would print the dict by key value, any duplicate numbers
-	#from the json file would be removed...to avoid this, use zip and iterate through
-	#the unique tuples created.  this allows something like budget and year to be printed
-	#for a certain asset_types....before, if records had the same budget, it 
-	#did not make the dictionary b/c dictionary keys are UNIQUE
-	#for n, g in zip(searchList, compareList):
-	#	print(n, g)
+	writeResultsJson(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
+	#printSearchResults(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
 
 main()
