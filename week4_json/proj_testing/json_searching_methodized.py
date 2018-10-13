@@ -83,7 +83,7 @@ def findByJsonKey(dictFromCgCap, searchCriteria, whatToFind, comparedToWhat):
 
 def writeResultsJson(searchCriteria, whatToFind, comparedToWhat, searchList, compareList):
 	anotherDict = dict([(whatToFind, searchList), (comparedToWhat, compareList)]) # neat way to build a dicts
-	finalDict = dict([(searchCriteria, finalDict)]) # build a dict w/ the searchCriteria as key, values are what use3r wants to look for, ex id, budgeted_amount
+	finalDict = dict([(searchCriteria, anotherDict)]) # build a dict w/ the searchCriteria as key, values are what use3r wants to look for, ex id, budgeted_amount
 	json.dump(finalDict, open('new_data.txt', 'w'), indent=4)
 	print("JSON file written...")
 
@@ -101,7 +101,7 @@ def main():
 		searchCriteria, whatToFind, comparedToWhat = enterSearchCriteria(dictFromJSONSearch)
 		searchList, compareList = findByJsonKey(dictFromCgCap, searchCriteria, whatToFind, comparedToWhat)
 		writeResultsJson(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
-	except:
+	except:	
 		print("Sorry, something went wrong with the search...please check user entry.")
 	#printSearchResults(searchCriteria, whatToFind, comparedToWhat, searchList, compareList)
 
