@@ -1,0 +1,12 @@
+{
+    "parse": {
+        "title": "Robert Anton Wilson",
+        "images": [
+            "Robert_Anton_Wilson.jpg",
+            "Robert_Anton_Wilson,_1977.jpg",
+            "Wikiquote-logo.svg",
+            "Blue_pencil.svg"
+        ],
+        "pageid": 26056
+    }
+}
