@@ -1,0 +1,30 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "pages": {
+            "26056": {
+                "images": [
+                    {
+                        "ns": 6,
+                        "title": "File:Blue pencil.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Robert Anton Wilson, 1977.jpg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Robert Anton Wilson.jpg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Wikiquote-logo.svg"
+                    }
+                ],
+                "pageid": 26056,
+                "ns": 0,
+                "title": "Robert Anton Wilson"
+            }
+        }
+    }
+}
