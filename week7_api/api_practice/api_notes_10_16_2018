@@ -1,0 +1,5 @@
+-- API keys authorize our requests to the API server
+-- API data can live in server DB or in servlet
+-- session based authentication (OAuth2) one time (maintain state on server
+	for multiple requests)
+-- non-session based requries a key and reauth. each time you make a request

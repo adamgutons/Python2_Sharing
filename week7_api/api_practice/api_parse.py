@@ -12,6 +12,7 @@ def generateSession():
 		'page': page,
 		'format': "json",
 		'prop': "images",
+		'disabletoc': True
 	}
 	response = S.get(url=URL, params=params)
 	data = response.json()
@@ -23,12 +24,15 @@ def writeJsonFile(data):
 	print() # spacing for console output
 
 def outPutWikiImg(data):
+	imageCount = 0
 	wikiDict = data['parse'] # create a smaller dict using wiki api return keys/vals
 	print("-" * 24) #format console output
 	print("Images in wiki article |")
 	print("-" * 24)
 	for image in wikiDict['images']:
-		print(image)
+		imageCount += 1
+	print("There are", imageCount, "images in the page")
+		#print(image)
 	"""
 	print(wikiDict)
 	for title in sorted(wikiDict): 

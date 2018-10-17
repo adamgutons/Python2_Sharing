@@ -1,30 +1,60 @@
 {
-    "batchcomplete": "",
-    "query": {
-        "pages": {
-            "26056": {
-                "images": [
-                    {
-                        "ns": 6,
-                        "title": "File:Blue pencil.svg"
-                    },
-                    {
-                        "ns": 6,
-                        "title": "File:Robert Anton Wilson, 1977.jpg"
-                    },
-                    {
-                        "ns": 6,
-                        "title": "File:Robert Anton Wilson.jpg"
-                    },
-                    {
-                        "ns": 6,
-                        "title": "File:Wikiquote-logo.svg"
-                    }
-                ],
-                "pageid": 26056,
-                "ns": 0,
-                "title": "Robert Anton Wilson"
-            }
-        }
+    "parse": {
+        "images": [
+            "Cscr-featured.svg",
+            "Padlock-silver.svg",
+            "Wikisource-logo.svg",
+            "Sound-icon.svg",
+            "Cefal\u00f9_Pantocrator_retouched.jpg",
+            "JesusYeshua.svg",
+            "P_christianity.svg",
+            "Allah-green.svg",
+            "Symbol_book_class2.svg",
+            "JesusYeshua2.svg",
+            "GaudenzioFerrari_StorieCristo_Varallo2.jpg",
+            "Bible.malmesbury.arp.jpg",
+            "P._Chester_Beatty_I,_folio_13-14,_recto.jpg",
+            "Gerard_van_Honthorst_-_Adoration_of_the_Shepherds_(1622).jpg",
+            "William_Holman_Hunt_-_The_Finding_of_the_Saviour_in_the_Temple.jpg",
+            "Piero_della_Francesca_-_Battesimo_di_Cristo_(National_Gallery,_London).jpg",
+            "Bloch-SermonOnTheMount.jpg",
+            "Brooklyn_Museum_-_The_Exhortation_to_the_Apostles_(Recommandation_aux_ap\u00f4tres)_-_James_Tissot.jpg",
+            "Hoffman-ChristAndTheRichYoungRuler.jpg",
+            "Christ_cleans_leper_man.jpg",
+            "Transfigurationbloch.jpg",
+            "G\u00e9r\u00f4me_-_L'entr\u00e9e_du_Christ_\u00e0_J\u00e9rusalem_-_cadre.jpg",
+            "\u00daltima_Cena_-_Juan_de_Juanes.jpg",
+            "The_Taking_of_Christ-Caravaggio_(c.1602).jpg",
+            "Ecce_homo_by_Antonio_Ciseri_(1).jpg",
+            "Pietro_Perugino_040.jpg",
+            "IVANOV_YAV_HRISTA_MARI1.jpg",
+            "Palestine_in_the_time_of_Jesus.jpg",
+            "Josephusbust.jpg",
+            "WorksJosephus1640TP.jpg",
+            "Wien-_Parlament-Tacitus.jpg",
+            "MII.png",
+            "The_Resurrection_Beaufort_arms_in_border_(f._131)_Cropped.jpg",
+            "CompositeJesus.JPG",
+            "Shield-Trinity-Scutum-Fidei-English.svg",
+            "Christ_with_beard.jpg",
+            "Jesus_Name_in_Arabic.gif",
+            "Dura-europos-paralytic.jpg",
+            "Shroud_of_Turin_001.jpg",
+            "Portal-puzzle.svg",
+            "Jesus_Spoken_Version.ogg",
+            "Folder_Hexagonal_Icon.svg",
+            "Christian_cross.svg",
+            "Office-book.svg",
+            "P_religion_world.svg",
+            "Commons-logo.svg",
+            "Wiktionary-logo-v2.svg",
+            "Wikibooks-logo.svg",
+            "Wikiquote-logo.svg",
+            "Wikiversity-logo.svg",
+            "Wikidata-logo.svg",
+            "Blue_pencil.svg"
+        ],
+        "pageid": 1095706,
+        "title": "Jesus"
     }
 }
