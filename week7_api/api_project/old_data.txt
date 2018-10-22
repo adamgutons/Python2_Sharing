@@ -1,280 +1,279 @@
 {
     "continue": {
         "continue": "||",
-        "rvcontinue": "20120410214452|486701112"
+        "rvcontinue": "20081212164540|257519234"
     },
     "query": {
         "pages": {
-            "5894884": {
+            "290195": {
+                "ns": 0,
                 "revisions": [
                     {
-                        "user": "Jonworth",
-                        "comment": "Just a little start...",
-                        "timestamp": "2006-07-09T16:30:35Z"
+                        "user": "Someone else",
+                        "timestamp": "2003-08-06T06:08:41Z",
+                        "comment": ""
                     },
                     {
-                        "user": "Jonworth",
-                        "comment": "Trying to get the references right...",
-                        "timestamp": "2006-07-09T16:52:11Z"
+                        "user": "35.8.131.155",
+                        "anon": "",
+                        "timestamp": "2004-03-13T00:29:21Z",
+                        "comment": ""
                     },
                     {
-                        "user": "Jonworth",
-                        "comment": "",
-                        "timestamp": "2006-07-09T17:00:10Z"
+                        "user": "35.8.131.155",
+                        "anon": "",
+                        "timestamp": "2004-03-13T00:38:37Z",
+                        "comment": "{msg:stub}"
                     },
                     {
-                        "user": "MarshBot",
-                        "comment": "Adding {{linkless}} template to orphan article",
-                        "timestamp": "2006-10-21T15:10:29Z"
+                        "user": "35.8.131.155",
+                        "anon": "",
+                        "timestamp": "2004-03-13T00:39:31Z",
+                        "comment": "format"
+                    },
+                    {
+                        "user": "Nunh-huh",
+                        "timestamp": "2004-03-13T00:41:28Z",
+                        "comment": "'''Elizabeth Warren''' is also the maiden name of [[Betty Ford]]."
+                    },
+                    {
+                        "user": "Nunh-huh",
+                        "timestamp": "2004-03-13T00:43:08Z",
+                        "comment": "well, almost..."
+                    },
+                    {
+                        "user": "Robotwisdom",
+                        "timestamp": "2005-05-15T20:26:28Z",
+                        "comment": ""
+                    },
+                    {
+                        "user": "Bluemoose",
+                        "timestamp": "2005-05-15T21:34:04Z",
+                        "comment": "Stub-sorting. [[Wikipedia:WikiProject Stub sorting|You can help!]]"
+                    },
+                    {
+                        "user": "DS1953",
+                        "timestamp": "2005-06-22T04:38:41Z",
+                        "comment": "major revision, added much material"
+                    },
+                    {
+                        "user": "DS1953",
+                        "timestamp": "2005-06-22T05:04:06Z",
+                        "comment": "Corrected category link"
+                    },
+                    {
+                        "user": "Jon Lackow",
+                        "timestamp": "2006-01-04T14:36:41Z",
+                        "comment": ""
+                    },
+                    {
+                        "user": "165.123.139.147",
+                        "anon": "",
+                        "timestamp": "2006-02-25T01:32:06Z",
+                        "comment": ""
                     },
                     {
                         "user": "SmackBot",
-                        "comment": "Date/fix the maintenance tags  using [[Project:AWB|AWB]]",
-                        "timestamp": "2007-01-10T22:03:26Z"
+                        "timestamp": "2006-08-29T09:58:46Z",
+                        "comment": "ISBN formatting &/or general fixes  using [[WP:AWB|AWB]]"
                     },
                     {
-                        "user": "Doron",
-                        "comment": "avoid redirect",
-                        "timestamp": "2007-03-26T10:31:10Z"
+                        "user": "140.247.248.52",
+                        "anon": "",
+                        "timestamp": "2006-09-06T01:34:57Z",
+                        "comment": ""
                     },
                     {
-                        "user": "SmackBot",
-                        "comment": "Date/fix the maintenance tags",
-                        "timestamp": "2007-04-23T05:58:19Z"
+                        "user": "Trnj2000",
+                        "timestamp": "2007-02-28T18:11:15Z",
+                        "comment": "Remove extraneous information--article about specific individual, not name"
                     },
                     {
-                        "user": "172.146.97.114",
-                        "comment": "/* External links */",
-                        "timestamp": "2007-06-25T00:58:03Z",
-                        "anon": ""
+                        "user": "Y",
+                        "timestamp": "2007-03-14T17:45:38Z",
+                        "comment": "cats, movie, imdb"
                     },
                     {
-                        "user": "Skier Dude",
-                        "comment": "sub-categorization",
-                        "timestamp": "2007-06-30T00:17:47Z"
+                        "user": "Naniwako",
+                        "timestamp": "2007-03-20T00:33:29Z",
+                        "comment": "fixed title of article"
                     },
                     {
-                        "user": "Waacstats",
-                        "comment": "stub sort",
-                        "timestamp": "2007-07-02T22:40:15Z"
+                        "user": "THF",
+                        "timestamp": "2007-08-15T20:28:37Z",
+                        "comment": "+ Zywicki critique"
                     },
                     {
-                        "user": "Ebyabe",
-                        "comment": "moving to [[Category:Uncategorised people]] or other uncategorised category, Replaced: {{Uncategorized|date=June 2007}} \u2192 [[Category:Uncategorised people]]  using [[Project:AWB|AWB]]",
-                        "timestamp": "2007-07-04T15:18:15Z"
+                        "user": "70.22.155.106",
+                        "anon": "",
+                        "timestamp": "2007-11-01T14:02:14Z",
+                        "comment": ""
                     },
                     {
-                        "user": "87.101.240.6",
-                        "comment": "/* References */",
-                        "timestamp": "2007-07-18T18:07:08Z",
-                        "anon": ""
+                        "user": "24.228.92.112",
+                        "anon": "",
+                        "timestamp": "2007-11-28T02:37:06Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "Bobo192",
-                        "comment": "Trimmed reference section",
-                        "timestamp": "2007-08-12T10:43:02Z"
+                        "user": "74.73.21.175",
+                        "anon": "",
+                        "timestamp": "2007-12-28T04:07:52Z",
+                        "comment": ""
                     },
                     {
-                        "user": "German.Knowitall",
-                        "comment": "http://www.arabview.com/profiles.asp?author=30",
-                        "timestamp": "2007-10-26T23:38:43Z"
+                        "user": "140.247.240.77",
+                        "anon": "",
+                        "timestamp": "2008-01-26T16:49:06Z",
+                        "comment": ""
                     },
                     {
-                        "user": "German.Knowitall",
-                        "comment": "",
-                        "timestamp": "2007-10-26T23:46:33Z"
+                        "user": "Guat6",
+                        "timestamp": "2008-03-15T01:37:55Z",
+                        "comment": "/* External links */ added [[Category:University of Houston alumni]]"
                     },
                     {
-                        "user": "Liberal Saudi",
-                        "comment": "",
-                        "timestamp": "2007-11-06T21:54:18Z"
+                        "user": "Guat6",
+                        "timestamp": "2008-03-15T01:38:07Z",
+                        "comment": "/* External links */ added [[Category:Rutgers University alumni]]"
                     },
                     {
-                        "user": "Ginnyleethompson",
-                        "comment": "/* References */",
-                        "timestamp": "2007-12-06T00:37:57Z"
+                        "user": "Thodu",
+                        "timestamp": "2008-05-01T15:32:57Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "Otolemur crassicaudatus",
-                        "comment": "removing",
-                        "timestamp": "2007-12-26T19:45:50Z"
+                        "user": "Goethean",
+                        "timestamp": "2008-05-01T16:42:28Z",
+                        "comment": "+html"
                     },
                     {
-                        "user": "Conquistador2k6",
-                        "comment": "",
-                        "timestamp": "2008-01-23T21:26:44Z"
+                        "user": "24.250.22.184",
+                        "anon": "",
+                        "timestamp": "2008-05-06T04:45:19Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "PipepBot",
-                        "comment": "robot  Adding: [[de:Dschemal Kashoggi]]",
-                        "timestamp": "2008-02-18T18:41:58Z"
+                        "user": "Archfeminist",
+                        "timestamp": "2008-06-29T20:20:32Z",
+                        "comment": ""
                     },
                     {
-                        "user": "Hejazistar",
-                        "comment": "",
-                        "timestamp": "2008-03-15T13:06:20Z"
+                        "user": "Kbdankbot",
+                        "timestamp": "2008-07-09T17:21:39Z",
+                        "comment": "Robot - move category per [[WP:CFD|CFD]] [[Wikipedia:Categories for discussion/Log/2008 June 29|2008 June 29]]"
                     },
                     {
-                        "user": "Yintan",
-                        "comment": "Reverted 1 edit by [[Special:Contributions/Hejazistar|Hejazistar]] identified as [[WP:VAND|vandalism]] to last revision by [[User:PipepBot|PipepBot]]. ([[WP:TW|TW]])",
-                        "timestamp": "2008-03-15T13:07:06Z"
+                        "user": "Matt Fitzpatrick",
+                        "timestamp": "2008-08-04T17:25:44Z",
+                        "comment": "paraphrasing Zywicki quote for context"
                     },
                     {
-                        "user": "Hejazistar",
-                        "comment": "",
-                        "timestamp": "2008-03-16T11:54:03Z"
+                        "user": "DumZiBoT",
+                        "timestamp": "2008-08-09T02:31:09Z",
+                        "comment": "Bot: Converting bare references, using ref names to avoid duplicates, see [[User:DumZiBoT/refLinks|FAQ]]"
                     },
                     {
-                        "user": "Good Olfactory",
-                        "comment": "place in subcategory",
-                        "timestamp": "2008-04-02T12:23:24Z"
+                        "user": "75.146.178.58",
+                        "anon": "",
+                        "timestamp": "2008-08-10T22:52:54Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "Waacstats",
-                        "comment": "Stub-sorting. [[Wikipedia:WikiProject Stub sorting|You can help!]]",
-                        "timestamp": "2008-05-07T10:02:53Z"
+                        "user": "75.146.178.58",
+                        "anon": "",
+                        "timestamp": "2008-08-10T22:53:01Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "OKBot",
-                        "comment": "robot  Modifying: [[de:Dschemal Chaschuqdschi]]",
-                        "timestamp": "2008-07-30T12:24:11Z"
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-05T15:36:03Z",
+                        "comment": ""
                     },
                     {
-                        "user": "78.93.125.224",
-                        "comment": "",
-                        "timestamp": "2008-09-14T12:54:35Z",
-                        "anon": ""
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-05T17:37:28Z",
+                        "comment": ""
                     },
                     {
-                        "user": "78.93.125.224",
-                        "comment": "",
-                        "timestamp": "2008-09-14T12:58:19Z",
-                        "anon": ""
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T16:35:20Z",
+                        "comment": ""
                     },
                     {
-                        "user": "78.93.125.224",
-                        "comment": "",
-                        "timestamp": "2008-09-14T13:02:12Z",
-                        "anon": ""
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:08:02Z",
+                        "comment": "Added internal links to publications Smart Money Magazine, Money Magazine, Law Dragon and Law Journal. Said entries existed previously but were not linked. Added external link to referenced NY Times"
                     },
                     {
-                        "user": "Rjwilmsi",
-                        "comment": "[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) apply [[Template:Lang]] (1),  using [[Project:AutoWikiBrowser|AWB]]",
-                        "timestamp": "2008-11-14T11:01:28Z"
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:12:18Z",
+                        "comment": "Added text to NY Times footnote"
                     },
                     {
-                        "user": "83.80.18.68",
-                        "comment": "/* References */ Textdumped resum\u00e9 removed",
-                        "timestamp": "2009-03-07T11:29:48Z",
-                        "anon": ""
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:16:32Z",
+                        "comment": "Changed tags for Smart Money Magazine and added correct url for Law Dragon."
                     },
                     {
-                        "user": "Kingpin13",
-                        "comment": "Reverted edits by [[Special:Contributions/83.80.18.68|83.80.18.68]] to last revision by Rjwilmsi ([[WP:HG|HG]])",
-                        "timestamp": "2009-03-07T11:30:02Z"
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:20:21Z",
+                        "comment": "Added internal links to the second paragraph and took out a repeating sentance in the third paragrah."
                     },
                     {
-                        "user": "83.80.18.68",
-                        "comment": "Copyvio removed",
-                        "timestamp": "2009-03-07T11:31:00Z",
-                        "anon": ""
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:23:54Z",
+                        "comment": "Added external link for Committee on Economic Inclusion, National Bankruptcy Review commission"
                     },
                     {
-                        "user": "Kingpin13",
-                        "comment": "Reverted edits by [[Special:Contributions/83.80.18.68|83.80.18.68]] to last revision by Kingpin13 ([[WP:HG|HG]])",
-                        "timestamp": "2009-03-07T11:31:07Z"
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:27:03Z",
+                        "comment": "Added link to book \"All You Are Worth\" external website"
                     },
                     {
-                        "user": "Aecis",
-                        "comment": "This is a copyright violation of http://www.saudi-us-relations.org/articles/2007/ioi/070426-khashoggi-interview.html, please do not restore copyvio's",
-                        "timestamp": "2009-03-07T11:33:20Z"
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:37:05Z",
+                        "comment": "Added external link (Amazon.com) to book \"The Two Income Trap\""
                     },
                     {
-                        "user": "82.32.36.29",
-                        "comment": "/* References */",
-                        "timestamp": "2009-06-20T20:28:54Z",
-                        "anon": ""
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:41:11Z",
+                        "comment": "Revised footnotes to give titles (instead of urls) for the webpages being referenced."
                     },
                     {
-                        "user": "Full-date unlinking bot",
-                        "comment": "Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(\u00d71)",
-                        "timestamp": "2009-12-10T22:14:06Z"
+                        "user": "Melvinwonder",
+                        "timestamp": "2008-11-09T20:43:36Z",
+                        "comment": "Forgot the brackets ( [] ) on previous update"
                     },
                     {
-                        "user": "62.120.169.169",
-                        "comment": "/* References */",
-                        "timestamp": "2010-05-15T20:57:23Z",
-                        "anon": ""
+                        "user": "Johnpacklambert",
+                        "timestamp": "2008-11-15T04:05:58Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "62.120.158.161",
-                        "comment": "/* References */",
-                        "timestamp": "2010-05-16T15:53:04Z",
-                        "anon": ""
+                        "user": "Johnpacklambert",
+                        "timestamp": "2008-11-15T04:06:12Z",
+                        "comment": "/* External links */"
                     },
                     {
-                        "user": "128.8.89.68",
-                        "comment": "",
-                        "timestamp": "2010-05-19T15:17:45Z",
-                        "anon": ""
+                        "user": "MPS",
+                        "timestamp": "2008-12-05T04:52:13Z",
+                        "comment": "[[Congressional Oversight Panel]]"
                     },
                     {
-                        "user": "RoboRay",
-                        "comment": "",
-                        "timestamp": "2010-06-23T13:23:30Z"
+                        "user": "Legobot",
+                        "timestamp": "2008-12-09T00:22:43Z",
+                        "comment": "Robot - Moving category Rutgers Law - Newark alumni to Rutgers School of Law - Newark alumni per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2008 December 1]]."
                     },
                     {
-                        "user": "87.201.223.90",
-                        "comment": "",
-                        "timestamp": "2010-07-06T11:01:43Z",
-                        "anon": ""
-                    },
-                    {
-                        "user": "72.66.46.160",
-                        "comment": "/* References */ now he has a job with alwaleed",
-                        "timestamp": "2010-07-28T21:47:30Z",
-                        "anon": ""
-                    },
-                    {
-                        "user": "Tsumetai",
-                        "comment": "Reverted 1 edit by [[Special:Contributions/72.66.46.160|72.66.46.160]]. ([[WP:TW|TW]])",
-                        "timestamp": "2010-07-28T21:48:17Z"
-                    },
-                    {
-                        "user": "RjwilmsiBot",
-                        "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7333)",
-                        "timestamp": "2010-10-26T23:22:45Z"
-                    },
-                    {
-                        "user": "117.195.98.127",
-                        "comment": "/* References */",
-                        "timestamp": "2011-06-14T10:26:17Z",
-                        "anon": ""
-                    },
-                    {
-                        "user": "Niceguyedc",
-                        "comment": "[[:en:WP:CLEANER|WPCleaner]] (v1.13) Reference list duplication (Fixed using [[WP:WCW]])",
-                        "timestamp": "2012-03-25T04:22:16Z"
-                    },
-                    {
-                        "user": "Egeymi",
-                        "comment": "",
-                        "timestamp": "2012-04-08T07:04:24Z"
-                    },
-                    {
-                        "user": "Egeymi",
-                        "comment": "",
-                        "timestamp": "2012-04-08T07:05:06Z"
-                    },
-                    {
-                        "user": "Egeymi",
-                        "comment": "",
-                        "timestamp": "2012-04-08T07:05:25Z"
+                        "user": "70.19.221.188",
+                        "anon": "",
+                        "timestamp": "2008-12-12T16:44:55Z",
+                        "comment": "added a link to the committee website"
                     }
                 ],
-                "pageid": 5894884,
-                "ns": 0,
-                "title": "Jamal Khashoggi"
+                "pageid": 290195,
+                "title": "Elizabeth Warren"
             }
         }
     }
