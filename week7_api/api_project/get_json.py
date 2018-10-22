@@ -3,7 +3,7 @@ import requests
 import json
 import webbrowser
 
-
+#
 def generateSession():		# generate our web session, url is english wikipedia API
 	session = requests.Session()
 	URL = "https://en.wikipedia.org/w/api.php"
