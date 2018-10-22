@@ -36,7 +36,7 @@ def generateOldComments(whoToSearch, session, URL):
 	response = session.get(url=URL, params=params)
 	dataDict = response.json()
 	json.dump(dataDict, dataFile, indent=4) #store our search in a file
-	print('old trump written to file...')
+	print('old rev. comments written to file...')
 	print()
 	return fileString
 
@@ -59,7 +59,7 @@ def generateNewComments(whoToSearch, session, URL):
 	response = session.get(url=URL, params=params)
 	dataDict = response.json()
 	json.dump(dataDict, dataFile, indent=4) #store our search in a file
-	print('new trump written to file...')
+	print('new rev. comments written to file...')
 	print()
 	return fileString
 
