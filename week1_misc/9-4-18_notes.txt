@@ -1,2 +1,0 @@
-API is owned by a business/organization, returns bits of converted data
--- CNN has API for scraping data from their DB's
