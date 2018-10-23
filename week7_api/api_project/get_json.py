@@ -16,8 +16,8 @@ def whoToSearch():
 # i had a real bitch of a time collecting the api request and sorting...wiki_revisions.py will show that i was iterating through
 # a loop of ppl names from people.txt and dumping the api data into a file.  however, it was not dumping ONE unique dictionary for ALL persons
 # in the search list...i.e. one donald dict, another hillary dict, in the same file...calling on json.load threw an error...too complicated
-# for my brainlet self to work through....SO....I make a few different methods...this one grabs 20 of the oldest of edits to the page Donald Trump
-#...obviously generateNewTrump() gets 20 of the most recent........we return the file to pass to gatherComments() method
+# for my brainlet self to work through....SO....I make a few different methods...this one grabs X of the oldest of edits to the page you search
+#...obviously generateNewComments() gets 20 of the most recent........we return the file to pass to gatherComments() method
 def generateOldComments(whoToSearch, session, URL):
 	fileString = 'old_data.txt' 	
 	dataFile = open(fileString, 'w')
@@ -31,7 +31,7 @@ def generateOldComments(whoToSearch, session, URL):
 		'rvlimit': '50',
 		'rvdir': 'newer'
 		#'rvstart':'2016-11-09T00:00:00Z',
-		#'rvend':'2016-11-08T00:00:00Z', #year, month, day
+		#'rvend':'2016-11-08T00:00:00Z' #year, month, day
 	}
 	response = session.get(url=URL, params=params)
 	dataDict = response.json()
