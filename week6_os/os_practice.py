@@ -1,5 +1,6 @@
 import os
 
+#you can set whatever path in the concactonated part of the string
 path = os.environ['HOME'] + '/weebly'
 #path = "/home/techred3/weebly"
 

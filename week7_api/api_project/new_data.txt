@@ -1,267 +1,267 @@
 {
-    "continue": {
-        "continue": "||",
-        "rvcontinue": "20181019161127|864808577"
-    },
     "query": {
         "pages": {
-            "290195": {
-                "ns": 0,
+            "4848272": {
+                "pageid": 4848272,
                 "revisions": [
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T22:27:59Z",
-                        "comment": "/* Native American ancestry */ whoops, tweak to CV's version"
+                        "timestamp": "2018-10-23T13:48:51Z",
+                        "comment": "Undid revision 865363393 by [[Special:Contributions/Giovanosky|Giovanosky]] ([[User talk:Giovanosky|talk]]) - [[Talk:Donald Trump#Current consensus]], item 1",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T19:53:55Z",
-                        "comment": "/* Native American ancestry */ this change was acceptable & relevsnr"
+                        "timestamp": "2018-10-23T13:35:35Z",
+                        "comment": "",
+                        "user": "Giovanosky"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T19:50:17Z",
-                        "comment": "Inappropriate title per [[WP:CLAIM]]; edit is contrary to sources cited here. Discuss on talk page."
+                        "timestamp": "2018-10-23T11:13:11Z",
+                        "comment": "/* Racial views */ trim duplicative polling + academic source",
+                        "user": "Galobtter"
                     },
                     {
-                        "user": "CorbieVreccan",
-                        "timestamp": "2018-10-21T19:24:51Z",
-                        "comment": "Read the report itself. Rebecca Nagle explains it here: \"'The science behind Warren\u2019s specific DNA test used examples of Indigenous people from Mexico, Peru, and Colombia, and included no sample from anyone who is Cherokee or even another Native American tribe from the Southeast (Cherokee traditional homelands).\" https://thinkprogress.org/elizabeth-warren-dna-test-self-serving-dangerous-native-people-c3568a5977da/"
+                        "timestamp": "2018-10-23T10:25:26Z",
+                        "comment": "/* False statements */ link [[Veracity of statements by Donald Trump]]",
+                        "user": "Frayae"
                     },
                     {
-                        "user": "Galobtter",
-                        "timestamp": "2018-10-21T19:14:47Z",
-                        "comment": "/* Native American heritage */ ancestry is less loaded I'd think"
+                        "timestamp": "2018-10-23T06:31:05Z",
+                        "comment": "/* Early life and education */ updated citation",
+                        "user": "Thinker78"
                     },
                     {
-                        "user": "Galobtter",
-                        "timestamp": "2018-10-21T19:03:27Z",
-                        "comment": "no claim - NYTimes article is pretty straightforward in \"Elizabeth Warren Has a Native American Ancestor.\" and the DNA test is pretty conlusive - \"There is research showing that using these groups as references is accurate when differentiating between genetic ancestries at a worldwide level.\" so no issue with not using native american. Need sources that dispute her assertion; controversy appears to be about other things like she using that heritage for an advantage etc"
+                        "timestamp": "2018-10-23T06:19:11Z",
+                        "comment": "/* Early life and education */ corrected info per citation",
+                        "user": "Thinker78"
                     },
                     {
-                        "user": "CorbieVreccan",
-                        "timestamp": "2018-10-21T18:49:37Z",
-                        "comment": "/* Claims of Native American heritage */ Biased unless we also include all the articles that state there was no Native North American DNA in the database she was compared to."
+                        "timestamp": "2018-10-23T06:12:21Z",
+                        "comment": "/* Early life and education */ corrected info per citation",
+                        "user": "Thinker78"
                     },
                     {
-                        "user": "CorbieVreccan",
-                        "timestamp": "2018-10-21T18:47:08Z",
-                        "comment": "/* Claims of Native American heritage */ who in family is relevant"
+                        "timestamp": "2018-10-23T06:04:12Z",
+                        "comment": "/* Family and personal life */ corrected and updated citation",
+                        "user": "Thinker78"
                     },
                     {
-                        "user": "CorbieVreccan",
-                        "timestamp": "2018-10-21T18:46:29Z",
-                        "comment": "/* Native American heritage */ Biased header. She has stated it. No consensus as to confirmation. Entire controversy is based around claims."
+                        "timestamp": "2018-10-23T05:54:23Z",
+                        "comment": "Undid revision 865303714 by [[Special:Contributions/Mandruss|Mandruss]] ([[User talk:Mandruss|talk]]) archive worked for me and it contains info that the other citation doesn't have (city of birth, borough).",
+                        "user": "Thinker78"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T06:53:29Z",
-                        "comment": "/* Native American heritage */"
+                        "timestamp": "2018-10-23T01:53:53Z",
+                        "comment": "/* Early life and education */ remove unnecessary citation not working for me as archive or original ;; move remaining citation closer to the content that it supports ;; add deadurl=no for live source",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T06:52:55Z",
-                        "comment": "/* Native American heritage */ If your concern is \"Synthesis,\" here's a direct quote."
+                        "timestamp": "2018-10-23T01:40:59Z",
+                        "comment": "cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T06:52:14Z",
-                        "comment": "self-rv, will attempt a compromise version."
+                        "timestamp": "2018-10-23T01:15:22Z",
+                        "comment": "cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T06:40:21Z",
-                        "comment": "Synthesis sourced to a reliable source is perfectly acceptable - that's literally what reliable secondary sources do."
+                        "timestamp": "2018-10-23T01:00:10Z",
+                        "comment": "cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "ScienceApe",
-                        "timestamp": "2018-10-21T06:31:07Z",
-                        "comment": "Undid revision 865025516 by [[Special:Contributions/Gandydancer|Gandydancer]] ([[User talk:Gandydancer|talk]]) It's still a synthesis, leave the quote, don't re-add the synthesis"
+                        "timestamp": "2018-10-22T00:31:17Z",
+                        "comment": "[[FiveThirtyEight]] is now italicized",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "Gandydancer",
-                        "timestamp": "2018-10-21T06:07:18Z",
-                        "comment": "this is not synthesis - the article states, \"Warren did clarify that she was talking only about family history \"  Undid revision 865024108 by [[Special:Contributions/ScienceApe|ScienceApe]] ([[User talk:ScienceApe|talk]])"
+                        "timestamp": "2018-10-21T22:54:52Z",
+                        "comment": "link",
+                        "user": "JJARichardson"
                     },
                     {
-                        "user": "ScienceApe",
-                        "timestamp": "2018-10-21T05:46:57Z",
-                        "comment": "/* Native American heritage */ as per talk page, removed the synthesis"
+                        "timestamp": "2018-10-21T20:50:49Z",
+                        "comment": "Reverted to revision 865077746 by [[Special:Contributions/Space4Time3Continuum2x|Space4Time3Continuum2x]]: A single quote does not demonstrate anything useful, and a see also section has not been agreed on. ([[WP:TW|TW]])",
+                        "user": "Frayae"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T01:46:47Z",
-                        "comment": "tighten"
+                        "timestamp": "2018-10-21T20:47:49Z",
+                        "comment": "upd",
+                        "user": "Mercy11"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T01:35:09Z",
-                        "comment": "There's nothing POV-pushing about stating what a reliable source states."
+                        "timestamp": "2018-10-21T19:58:47Z",
+                        "comment": "/* Veracity and false statements */",
+                        "user": "UConnHusky7"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-21T01:33:20Z",
-                        "comment": "rv undiscussed removal of high-quality reliable source."
+                        "timestamp": "2018-10-21T18:02:19Z",
+                        "comment": "/* False statements */ Added info about \"I wouldn't believe him...\" line.",
+                        "user": "UConnHusky7"
                     },
                     {
-                        "user": "The Four Deuces",
-                        "timestamp": "2018-10-20T23:00:11Z",
-                        "comment": "However, Warren claimed her ggg grandparent was partly of native ancestry"
+                        "timestamp": "2018-10-21T15:51:31Z",
+                        "comment": "/* Bibliography */ Not a reliable source - big pictures, big print, very little substance.  Replaced only reference to it with more substiantive one.",
+                        "user": "Space4Time3Continuum2x"
                     },
                     {
-                        "user": "WikiHogan654",
-                        "timestamp": "2018-10-20T22:14:53Z",
-                        "comment": "/* Native American heritage */ Correcting a mistake: 6th generation is great-great-great-great-grandparent."
+                        "timestamp": "2018-10-21T15:43:51Z",
+                        "comment": "/* Radio and television commentary */",
+                        "user": "Space4Time3Continuum2x"
                     },
                     {
-                        "user": "WikiHogan654",
-                        "timestamp": "2018-10-20T22:13:37Z",
-                        "comment": "/* Native American heritage */ Removing biased article which simply stated that the numbers were wrong with no explanation."
+                        "timestamp": "2018-10-21T15:02:51Z",
+                        "comment": "/* Early life and education */ The reason to remove it is the doubling.",
+                        "user": "Bishonen"
                     },
                     {
-                        "user": "ScienceApe",
-                        "timestamp": "2018-10-20T18:36:23Z",
-                        "comment": "/* Native American heritage */ don't re-add the POV pushing synthesis, this has already been discussed on the talk page"
+                        "timestamp": "2018-10-21T14:53:43Z",
+                        "comment": "/* Radio and television commentary */ It was a short-form program, 1-2 minutes on weekdays, according to the sources. Probably much less entertaining than the white-winged warrior (ba-awk bawk-bawk-bawk) striking terror into the hearts of criminals everywhere.",
+                        "user": "Space4Time3Continuum2x"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-20T15:23:46Z",
-                        "comment": "/* Native American heritage */ Tighten, trim duplicative, expand on Warren's statement."
+                        "timestamp": "2018-10-21T14:46:34Z",
+                        "comment": "/* Radio and television commentary */ Ce",
+                        "user": "Space4Time3Continuum2x"
                     },
                     {
-                        "user": "AnomieBOT",
-                        "timestamp": "2018-10-20T15:11:08Z",
-                        "comment": "Dating maintenance tags: {{Undue-section}}"
+                        "timestamp": "2018-10-20T22:26:40Z",
+                        "comment": "Undid revision 864885609 by [[Special:Contributions/Doctorkaufman|Doctorkaufman]] ([[User talk:Doctorkaufman|talk]]) - [[WP:CAPFRAG]] - \"If any complete sentence occurs in a caption, then all sentences, and any sentence fragments, in that caption should end with a period.\"",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-20T14:51:03Z",
-                        "comment": "/* Native American heritage */ Note that there is undue weight in this section - it has ballooned out of control."
+                        "timestamp": "2018-10-20T20:50:53Z",
+                        "comment": "Added official website to the list. Also we don't need that https:// in the personal twitter as all the other websites don't have it.",
+                        "user": "AdrianWikiEditor"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-20T12:18:31Z",
-                        "comment": "/* Native American heritage */ Removed brackets around European Americans in the Kessler quote.  No need for bracket because Kessler said \"European Americans\" That\u2019s the relevant statistic, indicating that her claim to some Native American heritage is much stronger than most European Americans."
+                        "timestamp": "2018-10-20T04:50:37Z",
+                        "comment": "/* Family and personal life */  removed full stop from picture caption",
+                        "user": "Doctorkaufman"
                     },
                     {
-                        "user": "Wumbolo",
-                        "timestamp": "2018-10-20T12:04:40Z",
-                        "comment": "/* Native American heritage */ made it more accurate"
+                        "timestamp": "2018-10-19T17:08:08Z",
+                        "comment": "no reason to remove this",
+                        "user": "MONGO"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-20T11:41:10Z",
-                        "comment": "/* Native American heritage */ removed the word \"significantly\" because it was not the word that the Post used. included the actual words of the Post."
+                        "timestamp": "2018-10-19T16:46:34Z",
+                        "comment": "/* Early life and education */",
+                        "user": "Velociraptor888"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-20T11:36:09Z",
-                        "comment": "/* Native American heritage */ adding that \"duplication\" tag is a commentary by a Wikipeida editor, spec. NorthBySouthBaranof. that editor must go talk page to justify adding unsupported commentary in article. How is it duplicative? It is not. The 95 number is no where else in the article."
+                        "timestamp": "2018-10-19T10:27:13Z",
+                        "comment": "/* Radio and television commentary */ ce",
+                        "user": "Galobtter"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-20T02:38:00Z",
-                        "comment": "tag as duplicative of what was said above, and unnecessary detail"
+                        "timestamp": "2018-10-19T10:26:12Z",
+                        "comment": "/* Radio and television commentary */ clarify with source",
+                        "user": "Galobtter"
                     },
                     {
-                        "user": "-sche",
-                        "timestamp": "2018-10-20T02:04:27Z",
-                        "comment": "restore one bit which was removed without, afaict, discussion. and trim the NYT quote per talk (there does not appear to be consensus to include it at all, but I'll leave that to someone else)."
+                        "timestamp": "2018-10-19T09:39:58Z",
+                        "comment": "see talk page",
+                        "user": "Frayae"
                     },
                     {
-                        "user": "-sche",
-                        "timestamp": "2018-10-20T02:01:38Z",
-                        "comment": "for clarity, replace \"the individual\" with Warren's name, in brackets, in the quote"
+                        "timestamp": "2018-10-17T22:17:19Z",
+                        "comment": "/* Foreign policy */ c/e",
+                        "user": "JFG"
                     },
                     {
-                        "user": "-sche",
-                        "timestamp": "2018-10-20T02:00:29Z",
-                        "comment": "adjust/fix - quote what the report actually says, verbatim, rather than the (admittedly clearer!) reporter's wording that subbed in Warren's name for \"this individual\" -- will do that, in brackets, in my next edit, but wanted to first make an edit correcting the quote to what it is verbatim"
+                        "timestamp": "2018-10-17T18:19:13Z",
+                        "comment": "What significance is there to any of these facts? We already know he is Presbyterian. I am removing these facts because they are not accompanied by any commentary that sheds light on the subject of the biography. Please flesh out these facts so that they serve a biographical function and then re-add them to the article. Or use the Talk page.",
+                        "user": "Bus stop"
                     },
                     {
-                        "user": "ScienceApe",
-                        "timestamp": "2018-10-20T00:28:46Z",
-                        "comment": "/* Native American heritage */ as per talk page, removed the synthesis. The quote remains for now"
+                        "timestamp": "2018-10-17T18:15:11Z",
+                        "comment": "What significance are there to any of these facts? We already know he is Presbyterian. I am removing these facts because they are not accompanied by any commentary that sheds light on the subject of the biography. Please flesh out these facts so that they serve a biographical function and then re-add them to the article. Or use the Talk page.",
+                        "user": "Bus stop"
                     },
                     {
-                        "user": "Wikieditor19920",
-                        "timestamp": "2018-10-20T00:14:49Z",
-                        "comment": "/* Native American heritage */ Corrected improper semi-colon use; replaced with comma."
+                        "timestamp": "2018-10-17T18:10:47Z",
+                        "comment": "What significance are these to any of these facts? We already know he is Presbyterian. I am removing these facts because they are not accompanied by any commentary that sheds light on the subject of the biography. Please flesh out these facts so that they serve a biographical function and then re-add them to the article. Or use the Talk page.",
+                        "user": "Bus stop"
                     },
                     {
-                        "user": "WikiHogan654",
-                        "timestamp": "2018-10-20T00:02:15Z",
-                        "comment": "/* Native American heritage */ The article actually does not prove that."
+                        "timestamp": "2018-10-17T17:57:14Z",
+                        "comment": "/* Religion */ In 2016, Pres. Trump received communion at an Episcopal church, Bethesda-by-the-Sea, during Christmas Eve mass",
+                        "user": "SeminarianJohn"
                     },
                     {
-                        "user": "Bangalamania",
-                        "timestamp": "2018-10-19T23:43:20Z",
-                        "comment": "/* Native American heritage */ Adding date and author; ce"
+                        "timestamp": "2018-10-17T17:41:30Z",
+                        "comment": "/* Religion */ Donald and Melania Trump were married at Bethesda-by-the-Sea Episcopal church where their son, Barron, was also christened.",
+                        "user": "SeminarianJohn"
                     },
                     {
-                        "user": "Gandydancer",
-                        "timestamp": "2018-10-19T23:33:04Z",
-                        "comment": "/* Native American heritage */ add per source used"
+                        "timestamp": "2018-10-17T05:08:40Z",
+                        "comment": "cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "IntelligentName",
-                        "timestamp": "2018-10-19T22:39:21Z",
-                        "comment": "Undid revision 864825456 by [[Special:Contributions/NorthBySouthBaranof|NorthBySouthBaranof]] ([[User talk:NorthBySouthBaranof|talk]])"
+                        "timestamp": "2018-10-17T04:54:47Z",
+                        "comment": "cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "Gandydancer",
-                        "timestamp": "2018-10-19T21:18:27Z",
-                        "comment": "/* Native American heritage */ add wikilink"
+                        "timestamp": "2018-10-17T04:21:08Z",
+                        "comment": "copy edit from revert, restored fixed citations // reflist column-izes automatically",
+                        "user": "Jennica"
                     },
                     {
-                        "user": "Therequiembellishere",
-                        "timestamp": "2018-10-19T19:03:37Z",
-                        "comment": "It wasn't, it's still a different campus, it's just as (if not more) accurate and illuminating. The prose links to the college, the infobox links to the parent university"
+                        "timestamp": "2018-10-17T04:13:40Z",
+                        "comment": "Undid revision 864426003 by [[Special:Contributions/Jennica|Jennica]] ([[User talk:Jennica|talk]]) - Strong objection to mass removal of cite parameter spacing, which is there for good reasons. Less objection to other changes, and some of it is even good, but I'm not going to spend two hours of my life doing a manual partial revert. Please get prior consensus for any such mass changes to this article.",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "Kart2401real",
-                        "timestamp": "2018-10-19T18:56:51Z",
-                        "comment": "/* Political positions */"
+                        "timestamp": "2018-10-17T03:51:16Z",
+                        "comment": "cleanup",
+                        "user": "Jennica"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-19T18:30:42Z",
-                        "comment": "Again, I disagree with your edits - please discuss on the talk page rather than edit-warring."
+                        "timestamp": "2018-10-17T00:28:29Z",
+                        "comment": "/* Election to the presidency */ cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-19T18:13:41Z",
-                        "comment": "/* Native American heritage */ quoted reliable sourced, secondary source, NY Times, word for word so we can avoid:  [[Racial bias on Wikipedia]]."
+                        "timestamp": "2018-10-17T00:21:02Z",
+                        "comment": "/* White supremacist support */ cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-19T17:58:36Z",
-                        "comment": "/* Native American heritage */ Restored information that is reliably sourced to a well-known secondary source NY Times that another editor removed with the basic argument that he/she just did not like it. OR it could be [[https://en.wikipedia.org/wiki/Criticism_of_Wikipedia#Racial_bias]]"
+                        "timestamp": "2018-10-17T00:15:20Z",
+                        "comment": "/* Financial disclosures */ cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-19T17:37:37Z",
-                        "comment": "/* Native American heritage */ No, we don't get to pick and choose what part of the Bustamonte report we like.  You just can't leave off the first part of his conclusion. His conclusion is the 95 of her ancestry is European, not native. Please stop forcing your POV on the article."
+                        "timestamp": "2018-10-17T00:11:24Z",
+                        "comment": "/* Special counsel */ cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "Kart2401real",
-                        "timestamp": "2018-10-19T17:06:23Z",
-                        "comment": ""
+                        "timestamp": "2018-10-16T23:47:47Z",
+                        "comment": "random cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "NorthBySouthBaranof",
-                        "timestamp": "2018-10-19T16:33:44Z",
-                        "comment": "I disagree with these additions - they misplace the emphasis and suggest Warren claimed something she did not."
+                        "timestamp": "2018-10-16T23:28:49Z",
+                        "comment": "random cite cleanup",
+                        "user": "Mandruss"
                     },
                     {
-                        "user": "CharlesShirley",
-                        "timestamp": "2018-10-19T16:13:14Z",
-                        "comment": "/* Native American heritage */ fixed citation."
+                        "timestamp": "2018-10-16T23:02:41Z",
+                        "comment": "[[MOS:CURLY]]",
+                        "user": "Mandruss"
                     }
                 ],
-                "pageid": 290195,
-                "title": "Elizabeth Warren"
+                "ns": 0,
+                "title": "Donald Trump"
             }
         }
+    },
+    "continue": {
+        "rvcontinue": "20181016225800|864396588",
+        "continue": "||"
     }
 }
