@@ -1,3 +1,0 @@
-{
-    "area": "Engineering and Construction"
-}

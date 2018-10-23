@@ -1,0 +1,21 @@
+Author
+	: Article
+			: Date
+			: Topic/Subject
+				: US Political
+					:President
+					:other?
+				: International
+					: Politics
+					: Economy 
+					: Entertainment
+					: Other
+				: Entertainment
+					: TV/Movies
+					:  
+				: Opinion
+				: Money
+				: Tech
+				: Style
+				: Travel
+				: Sports

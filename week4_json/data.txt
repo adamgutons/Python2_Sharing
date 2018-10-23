@@ -1,0 +1,29 @@
+{
+    "asset_type": [
+        "Non-Asset",
+        "Sidewalk",
+        "Pool",
+        "Facility",
+        "Playing Field",
+        "Step",
+        "Bridge",
+        "Playground",
+        "Park",
+        "Roofing System",
+        "Signalized Intersection",
+        "Court",
+        "Retaining Wall"
+    ],
+    "status": [
+        "In Progress",
+        "Canceled",
+        "Planned",
+        "Completed"
+    ],
+    "area": [
+        "Engineering and Construction",
+        "Administration/Sub-Award",
+        "Facility Improvement",
+        "Neighborhood and Community Development"
+    ]
+}

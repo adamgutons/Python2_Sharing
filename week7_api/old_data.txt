@@ -1,0 +1,286 @@
+{
+    "query": {
+        "pages": {
+            "4848272": {
+                "pageid": 4848272,
+                "revisions": [
+                    {
+                        "timestamp": "2004-01-09T03:00:24Z",
+                        "comment": "",
+                        "user": "Mprudhom"
+                    },
+                    {
+                        "timestamp": "2004-01-09T03:01:26Z",
+                        "comment": "",
+                        "user": "Danny"
+                    },
+                    {
+                        "timestamp": "2004-01-09T03:02:28Z",
+                        "comment": "",
+                        "user": "Mprudhom"
+                    },
+                    {
+                        "timestamp": "2004-01-09T03:57:22Z",
+                        "comment": "dab American",
+                        "user": "RedWolf"
+                    },
+                    {
+                        "timestamp": "2004-01-09T06:03:31Z",
+                        "comment": "added paragraphs",
+                        "user": "Matty j"
+                    },
+                    {
+                        "timestamp": "2004-01-25T18:00:38Z",
+                        "comment": "link disambig",
+                        "user": "Seth Ilys"
+                    },
+                    {
+                        "timestamp": "2004-02-13T08:08:15Z",
+                        "comment": "",
+                        "user": "AntonioMartin"
+                    },
+                    {
+                        "timestamp": "2004-02-18T07:43:11Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "161.115.210.189"
+                    },
+                    {
+                        "timestamp": "2004-03-26T08:30:22Z",
+                        "comment": "director -> producer",
+                        "user": "Nricardo"
+                    },
+                    {
+                        "timestamp": "2004-04-02T03:06:02Z",
+                        "comment": "wiki",
+                        "user": "Meelar"
+                    },
+                    {
+                        "timestamp": "2004-04-03T04:32:26Z",
+                        "comment": "",
+                        "user": "Vzbs34"
+                    },
+                    {
+                        "timestamp": "2004-04-07T08:02:02Z",
+                        "comment": "More books, problems with hotels and casinos",
+                        "anon": "",
+                        "user": "67.100.125.124"
+                    },
+                    {
+                        "timestamp": "2004-04-08T23:15:55Z",
+                        "comment": "",
+                        "user": "AmericanCentury21"
+                    },
+                    {
+                        "timestamp": "2004-04-09T06:05:19Z",
+                        "comment": "Link",
+                        "anon": "",
+                        "user": "195.93.65.15"
+                    },
+                    {
+                        "timestamp": "2004-04-09T06:05:58Z",
+                        "comment": "lowercase l",
+                        "user": "Dysprosia"
+                    },
+                    {
+                        "timestamp": "2004-04-10T06:59:44Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "195.93.65.15"
+                    },
+                    {
+                        "timestamp": "2004-04-13T01:06:54Z",
+                        "comment": "",
+                        "user": "Guanaco"
+                    },
+                    {
+                        "timestamp": "2004-04-13T14:36:05Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "4.157.20.230"
+                    },
+                    {
+                        "timestamp": "2004-04-17T08:57:11Z",
+                        "comment": "",
+                        "user": "Marcschulz"
+                    },
+                    {
+                        "timestamp": "2004-04-17T08:59:01Z",
+                        "comment": "",
+                        "user": "Marcschulz"
+                    },
+                    {
+                        "timestamp": "2004-04-17T09:02:22Z",
+                        "comment": "",
+                        "user": "Marcschulz"
+                    },
+                    {
+                        "timestamp": "2004-04-17T09:10:23Z",
+                        "comment": "",
+                        "user": "Marcschulz"
+                    },
+                    {
+                        "timestamp": "2004-04-21T21:36:26Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "161.115.209.6"
+                    },
+                    {
+                        "timestamp": "2004-04-21T21:38:51Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "161.115.209.6"
+                    },
+                    {
+                        "timestamp": "2004-04-24T02:26:21Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "149.99.164.73"
+                    },
+                    {
+                        "timestamp": "2004-04-24T02:27:49Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "149.99.164.73"
+                    },
+                    {
+                        "timestamp": "2004-04-24T02:28:56Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "149.99.164.73"
+                    },
+                    {
+                        "timestamp": "2004-04-24T02:31:02Z",
+                        "comment": "rewrote strangely-worded bits at the end",
+                        "user": "Moncrief"
+                    },
+                    {
+                        "timestamp": "2004-04-24T02:32:27Z",
+                        "comment": "",
+                        "user": "Moncrief"
+                    },
+                    {
+                        "timestamp": "2004-04-28T05:36:06Z",
+                        "comment": "From \"The Art of the Deal\", page 66: \"Fred Trump [Donald's dad] was born in New Jersey in 1905.  His father, who came here from Sweden as a child, owned a moderately successful restaurant...\"",
+                        "anon": "",
+                        "user": "4.228.213.58"
+                    },
+                    {
+                        "timestamp": "2004-04-30T19:50:23Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "68.62.135.36"
+                    },
+                    {
+                        "timestamp": "2004-05-02T07:26:42Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "141.85.0.66"
+                    },
+                    {
+                        "timestamp": "2004-05-02T13:26:08Z",
+                        "comment": "His -> Donald's (as opposed to the father of the grandfather)",
+                        "anon": "",
+                        "user": "4.228.213.131"
+                    },
+                    {
+                        "timestamp": "2004-05-19T00:16:41Z",
+                        "comment": "",
+                        "user": "Jason M"
+                    },
+                    {
+                        "timestamp": "2004-05-19T00:19:31Z",
+                        "comment": "",
+                        "user": "Jason M"
+                    },
+                    {
+                        "timestamp": "2004-05-19T00:20:18Z",
+                        "comment": "",
+                        "user": "Jason M"
+                    },
+                    {
+                        "timestamp": "2004-05-19T00:20:53Z",
+                        "comment": "",
+                        "user": "Jason M"
+                    },
+                    {
+                        "timestamp": "2004-05-21T21:57:04Z",
+                        "comment": "nl",
+                        "user": "Ellywa"
+                    },
+                    {
+                        "timestamp": "2004-05-25T10:41:22Z",
+                        "comment": "In [[2004]],",
+                        "anon": "",
+                        "user": "203.109.201.48"
+                    },
+                    {
+                        "timestamp": "2004-05-25T10:46:16Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "203.109.201.48"
+                    },
+                    {
+                        "timestamp": "2004-05-30T08:16:33Z",
+                        "comment": "added picture",
+                        "user": "Kowloonese"
+                    },
+                    {
+                        "timestamp": "2004-06-02T07:32:24Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "202.156.2.35"
+                    },
+                    {
+                        "timestamp": "2004-06-05T13:15:27Z",
+                        "comment": "Less biased term.",
+                        "user": "Ronabop"
+                    },
+                    {
+                        "timestamp": "2004-06-05T13:17:40Z",
+                        "comment": "Simpsons made the joke, but it doesn't belong here.",
+                        "anon": "",
+                        "user": "68.37.27.66"
+                    },
+                    {
+                        "timestamp": "2004-06-05T13:21:11Z",
+                        "comment": "fmt images",
+                        "user": "Dori"
+                    },
+                    {
+                        "timestamp": "2004-06-05T13:22:06Z",
+                        "comment": "fmt",
+                        "user": "Dori"
+                    },
+                    {
+                        "timestamp": "2004-06-05T16:45:39Z",
+                        "comment": "[[Category:Wealthy People]]",
+                        "user": "Gabbe"
+                    },
+                    {
+                        "timestamp": "2004-06-05T16:46:02Z",
+                        "comment": "oops!",
+                        "user": "Gabbe"
+                    },
+                    {
+                        "timestamp": "2004-06-11T02:23:06Z",
+                        "comment": "Trump only owned a portion of the GM Building.  Conseco, Inc bought out his share in 2003 though.",
+                        "user": "Timwhit"
+                    },
+                    {
+                        "timestamp": "2004-06-12T01:41:44Z",
+                        "comment": "",
+                        "anon": "",
+                        "user": "68.13.24.62"
+                    }
+                ],
+                "ns": 0,
+                "title": "Donald Trump"
+            }
+        }
+    },
+    "continue": {
+        "rvcontinue": "20040612014221|4085353",
+        "continue": "||"
+    }
+}
