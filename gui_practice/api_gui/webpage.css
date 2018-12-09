@@ -1,0 +1,15 @@
+body {
+	margin: 0 auto;
+	width: 90%;
+	font-family: Arial, Verdana, sans-serif;
+}
+#oldComments {
+	width: 49%;
+	margin: 0;
+	float: left;
+}
+#newComments {
+	width: 49%;
+	margin: 0;
+	float: left;
+}

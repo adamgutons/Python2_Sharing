@@ -1,0 +1,267 @@
+{
+    "query": {
+        "pages": {
+            "1095706": {
+                "ns": 0,
+                "revisions": [
+                    {
+                        "timestamp": "2018-12-09T04:17:15Z",
+                        "user": "Knox490",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2018-12-07T14:21:12Z",
+                        "user": "Zenadix",
+                        "comment": "/* Genealogy and nativity */ Add/improve bible references"
+                    },
+                    {
+                        "timestamp": "2018-12-07T14:15:52Z",
+                        "user": "Zenadix",
+                        "comment": "/* Genealogy and nativity */ Refer readers to [[Genealogy of Jesus]] for more information"
+                    },
+                    {
+                        "timestamp": "2018-12-05T12:44:25Z",
+                        "user": "The Transhumanist",
+                        "comment": "adjust icon size"
+                    },
+                    {
+                        "timestamp": "2018-12-03T01:22:54Z",
+                        "user": "Smasongarrison",
+                        "comment": "copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]]"
+                    },
+                    {
+                        "timestamp": "2018-12-02T03:51:39Z",
+                        "user": "Miistermagico",
+                        "comment": "/* See also */ Christology"
+                    },
+                    {
+                        "timestamp": "2018-11-27T22:21:38Z",
+                        "user": "Connexitcut",
+                        "comment": "Removed unsourced information"
+                    },
+                    {
+                        "timestamp": "2018-11-27T01:24:32Z",
+                        "user": "Objective3000",
+                        "comment": "Undid revision 870794011 by [[Special:Contributions/Hari147|Hari147]] ([[User talk:Hari147|talk]]) No. Take to talk page if you must."
+                    },
+                    {
+                        "timestamp": "2018-11-27T01:23:34Z",
+                        "user": "Hari147",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2018-11-26T03:29:27Z",
+                        "user": "Miistermagico",
+                        "comment": "/* See also */"
+                    },
+                    {
+                        "timestamp": "2018-11-26T03:28:25Z",
+                        "user": "Miistermagico",
+                        "comment": "/* See also */ Trinity"
+                    },
+                    {
+                        "timestamp": "2018-11-23T18:17:54Z",
+                        "user": "Britmax",
+                        "comment": "Undid revision 870272143 by [[Special:Contributions/Greenbangalore|Greenbangalore]] ([[User talk:Greenbangalore|talk]]) Reverted unexplained change"
+                    },
+                    {
+                        "timestamp": "2018-11-23T17:30:35Z",
+                        "user": "Greenbangalore",
+                        "comment": "/* Perspectives */"
+                    },
+                    {
+                        "timestamp": "2018-11-23T01:50:25Z",
+                        "user": "Zenadix",
+                        "comment": "/* Portraits of Jesus */ A little bigger"
+                    },
+                    {
+                        "timestamp": "2018-11-22T12:38:42Z",
+                        "user": "PericlesofAthens",
+                        "comment": "/* Portraits of Jesus */ perhaps it doesn't need to be so big"
+                    },
+                    {
+                        "timestamp": "2018-11-22T12:38:13Z",
+                        "user": "PericlesofAthens",
+                        "comment": "/* Portraits of Jesus */ seems like an appropriate sub-section for a depiction of Jesus, a very early one at that, a mosaic from the beginning of the 5th century AD in Rome"
+                    },
+                    {
+                        "timestamp": "2018-11-12T13:14:53Z",
+                        "user": "Objective3000",
+                        "comment": "Undid revision 868479738 by [[Special:Contributions/MyKingIsChrist|MyKingIsChrist]] ([[User talk:MyKingIsChrist|talk]]) Previous text is better."
+                    },
+                    {
+                        "timestamp": "2018-11-12T13:08:54Z",
+                        "user": "MyKingIsChrist",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2018-11-09T03:01:01Z",
+                        "user": "Dlthewave",
+                        "comment": "/* Other */ rm non-rs"
+                    },
+                    {
+                        "timestamp": "2018-11-02T10:01:48Z",
+                        "user": "Doug Weller",
+                        "comment": "Reverted to revision 866764419 by [[Special:Contributions/Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]): See hidden note. ([[WP:TW|TW]])"
+                    },
+                    {
+                        "timestamp": "2018-11-01T23:32:08Z",
+                        "user": "Daniel Klimovich",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2018-11-01T12:10:02Z",
+                        "user": "Tgeorgescu",
+                        "comment": "Reverted 1 edit by [[Special:Contributions/Lilyeyre123|Lilyeyre123]] ([[User talk:Lilyeyre123|talk]]) to last revision by Colliric. ([[WP:TW|TW]])"
+                    },
+                    {
+                        "timestamp": "2018-11-01T12:06:00Z",
+                        "user": "Lilyeyre123",
+                        "comment": "hwjkc"
+                    },
+                    {
+                        "timestamp": "2018-10-29T11:11:36Z",
+                        "user": "Colliric",
+                        "comment": "This is the actual most famous believed real  translation of this term \"Notzri\". You can look it up in the article on \"Jesus in the Talmud\". Putting \"The Christian\" instead is deceptive."
+                    },
+                    {
+                        "timestamp": "2018-10-15T19:09:02Z",
+                        "user": "Zenadix",
+                        "comment": "/* Genealogy and nativity */ Update citation, hyphenate ISBN"
+                    },
+                    {
+                        "timestamp": "2018-10-15T18:09:21Z",
+                        "user": "Zenadix",
+                        "comment": "/* Genealogy and nativity */ Wording, style"
+                    },
+                    {
+                        "timestamp": "2018-10-15T17:28:58Z",
+                        "user": "Zenadix",
+                        "comment": "/* Genealogy and nativity */ It's not necessary to list all the generations here"
+                    },
+                    {
+                        "timestamp": "2018-10-15T16:21:28Z",
+                        "user": "Zenadix",
+                        "comment": "/* Genealogy and nativity */ Expand paragraph on Jesus' genealogy"
+                    },
+                    {
+                        "timestamp": "2018-10-11T10:54:25Z",
+                        "user": "Susahe",
+                        "comment": "/* Etymology */"
+                    },
+                    {
+                        "timestamp": "2018-10-11T10:53:16Z",
+                        "user": "Susahe",
+                        "comment": "/* Etymology */"
+                    },
+                    {
+                        "timestamp": "2018-10-08T16:25:36Z",
+                        "user": "Dimadick",
+                        "comment": "/* External links */"
+                    },
+                    {
+                        "timestamp": "2018-10-08T16:24:00Z",
+                        "user": "Dimadick",
+                        "comment": "/* External links */"
+                    },
+                    {
+                        "timestamp": "2018-10-08T16:23:07Z",
+                        "user": "Dimadick",
+                        "comment": "/* External links */"
+                    },
+                    {
+                        "timestamp": "2018-10-06T23:39:00Z",
+                        "user": "Citation bot",
+                        "comment": "Add: chapter-url, date. Removed parameters. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | [[User:JZCL|JZCL]]"
+                    },
+                    {
+                        "timestamp": "2018-10-06T09:52:58Z",
+                        "user": "The Transhumanist",
+                        "comment": "Add bullet to list item"
+                    },
+                    {
+                        "timestamp": "2018-10-06T04:44:50Z",
+                        "user": "The Transhumanist",
+                        "comment": "Place portal link"
+                    },
+                    {
+                        "timestamp": "2018-10-03T10:11:49Z",
+                        "user": "HiLo48",
+                        "comment": "/* Associated relics */ A lot of doubt about that"
+                    },
+                    {
+                        "timestamp": "2018-10-03T09:51:10Z",
+                        "user": "LucaGaletti95",
+                        "comment": "/* Associated relics */"
+                    },
+                    {
+                        "timestamp": "2018-09-26T07:43:16Z",
+                        "user": "Syzygy",
+                        "comment": "/* Crucifixion and entombment */"
+                    },
+                    {
+                        "timestamp": "2018-09-21T11:04:38Z",
+                        "user": "Objective3000",
+                        "comment": "Undid revision 860530049 by [[Special:Contributions/Deepfern|Deepfern]] ([[User talk:Deepfern|talk]]) The etymology of Palestine goes back millennia. Please take to the talk page."
+                    },
+                    {
+                        "timestamp": "2018-09-21T08:36:59Z",
+                        "user": "Deepfern",
+                        "comment": "/* Language, ethnicity, and appearance */"
+                    },
+                    {
+                        "timestamp": "2018-09-20T14:47:08Z",
+                        "user": "Nillurcheier",
+                        "comment": "Undid revision 860412062 by [[Special:Contributions/Deepfern|Deepfern]] ([[User talk:Deepfern|talk]]) misunderstanding history"
+                    },
+                    {
+                        "timestamp": "2018-09-20T14:15:12Z",
+                        "user": "Deepfern",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2018-09-20T02:23:35Z",
+                        "user": "Finnusertop",
+                        "comment": "/* External links */ [[Portal:Jesus]]"
+                    },
+                    {
+                        "timestamp": "2018-09-17T10:36:10Z",
+                        "user": "Galobtter",
+                        "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"central figure of Christianity\" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])"
+                    },
+                    {
+                        "timestamp": "2018-09-16T20:53:57Z",
+                        "user": "Gaiagenesis",
+                        "comment": "Correctly display links to Wikipedia pages as appropriate"
+                    },
+                    {
+                        "timestamp": "2018-09-16T14:53:01Z",
+                        "user": "DrKay",
+                        "comment": "replace dead link"
+                    },
+                    {
+                        "timestamp": "2018-09-16T14:51:22Z",
+                        "user": "DrKay",
+                        "comment": "needing clarification from February 2018: restore original connection with dependent clause [see https://en.wikipedia.org/w/index.php?title=Jesus&oldid=568634194]"
+                    },
+                    {
+                        "timestamp": "2018-09-08T19:10:26Z",
+                        "user": "Modulus12",
+                        "comment": "/* See also */ Article no longer exists"
+                    },
+                    {
+                        "timestamp": "2018-09-08T13:15:14Z",
+                        "user": "Brandmeister",
+                        "comment": "/* top */ overlinking"
+                    }
+                ],
+                "pageid": 1095706,
+                "title": "Jesus"
+            }
+        }
+    },
+    "continue": {
+        "continue": "||",
+        "rvcontinue": "20180906213932|858395527"
+    }
+}

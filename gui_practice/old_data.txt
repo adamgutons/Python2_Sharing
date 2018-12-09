@@ -1,0 +1,284 @@
+{
+    "query": {
+        "pages": {
+            "1095706": {
+                "ns": 0,
+                "revisions": [
+                    {
+                        "timestamp": "2001-03-03T09:09:23Z",
+                        "user": "JimboWales",
+                        "comment": "Setting up aliases for Jesus, Christ"
+                    },
+                    {
+                        "timestamp": "2001-11-21T16:11:12Z",
+                        "user": "Dmerrill",
+                        "comment": "clarified LDS belief about JC in the new world, native americans *one of* the lost tribes of israel"
+                    },
+                    {
+                        "anon": "",
+                        "user": "193.79.128.xxx",
+                        "comment": "*",
+                        "timestamp": "2001-12-07T15:54:51Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "193.79.128.xxx",
+                        "comment": "*",
+                        "timestamp": "2001-12-07T15:56:14Z"
+                    },
+                    {
+                        "timestamp": "2001-12-08T16:41:09Z",
+                        "user": "RK",
+                        "comment": "*"
+                    },
+                    {
+                        "timestamp": "2001-12-17T22:48:58Z",
+                        "user": "Ed Poor",
+                        "comment": "inserted cross-ref to Messiah in 2nd sentence"
+                    },
+                    {
+                        "timestamp": "2001-12-19T00:14:46Z",
+                        "user": "SimonP",
+                        "comment": "*"
+                    },
+                    {
+                        "anon": "",
+                        "user": "62.253.64.xxx",
+                        "comment": "*",
+                        "timestamp": "2001-12-19T16:37:14Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "62.253.64.xxx",
+                        "comment": "*",
+                        "timestamp": "2001-12-19T16:37:33Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "200.191.188.xxx",
+                        "comment": "*",
+                        "timestamp": "2001-12-27T23:34:10Z"
+                    },
+                    {
+                        "timestamp": "2001-12-30T19:50:10Z",
+                        "user": "Joe Faust",
+                        "comment": "*"
+                    },
+                    {
+                        "timestamp": "2001-12-30T19:51:23Z",
+                        "user": "Joe Faust",
+                        "comment": "*"
+                    },
+                    {
+                        "timestamp": "2001-12-30T19:55:51Z",
+                        "user": "Joe Faust",
+                        "comment": "*"
+                    },
+                    {
+                        "timestamp": "2001-12-30T19:59:30Z",
+                        "user": "Joe Faust",
+                        "comment": "*"
+                    },
+                    {
+                        "anon": "",
+                        "user": "203.170.3.xxx",
+                        "comment": "*[SJK]",
+                        "timestamp": "2002-01-17T11:57:40Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "203.170.3.xxx",
+                        "comment": "*[SJK]",
+                        "timestamp": "2002-01-17T12:01:34Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "Conversion script",
+                        "comment": "Automated conversion",
+                        "timestamp": "2002-02-25T15:51:15Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "209.74.60.201",
+                        "comment": "*",
+                        "timestamp": "2002-03-31T12:12:48Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "62.98.138.5",
+                        "comment": "*",
+                        "timestamp": "2002-03-31T12:31:46Z"
+                    },
+                    {
+                        "timestamp": "2002-03-31T12:36:33Z",
+                        "user": "Eclecticology",
+                        "comment": "*Italics for Latin"
+                    },
+                    {
+                        "anon": "",
+                        "user": "62.98.138.5",
+                        "comment": "mention Isa, Islamic scatology",
+                        "timestamp": "2002-03-31T13:01:42Z"
+                    },
+                    {
+                        "timestamp": "2002-04-25T17:54:48Z",
+                        "user": "SimonP",
+                        "comment": "*"
+                    },
+                    {
+                        "timestamp": "2002-04-26T10:31:38Z",
+                        "user": "Larry Sanger",
+                        "comment": "Reworking first paragraph to account for a recent talk page remark; adding a bit about A.D.; moving link at end to a different page; and some other minor changes."
+                    },
+                    {
+                        "timestamp": "2002-04-26T10:42:14Z",
+                        "user": "Larry Sanger",
+                        "comment": "Reworking first paragraph to account for a recent talk page remark; adding a bit about A.D.; moving link at end to a different page; and some other minor changes."
+                    },
+                    {
+                        "anon": "",
+                        "user": "213.253.39.101",
+                        "comment": "CE == AD",
+                        "timestamp": "2002-04-27T04:25:00Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "213.253.39.101",
+                        "comment": "born in the year 1 A.D.",
+                        "timestamp": "2002-04-27T04:27:11Z"
+                    },
+                    {
+                        "anon": "",
+                        "user": "213.253.39.101",
+                        "comment": "linking [[lost tribes of Israel]]",
+                        "timestamp": "2002-04-27T04:30:42Z"
+                    },
+                    {
+                        "timestamp": "2002-06-18T21:29:48Z",
+                        "user": "RK",
+                        "comment": "*"
+                    },
+                    {
+                        "timestamp": "2002-06-18T21:34:37Z",
+                        "user": "Mav",
+                        "comment": "- talk, updated some link syntax and removed double link"
+                    },
+                    {
+                        "anon": "",
+                        "user": "212.67.110.17",
+                        "comment": "*",
+                        "timestamp": "2002-06-25T00:32:46Z"
+                    },
+                    {
+                        "timestamp": "2002-07-18T14:13:01Z",
+                        "user": "Heron",
+                        "comment": "added link to [[Trinity]]"
+                    },
+                    {
+                        "timestamp": "2002-07-25T22:50:01Z",
+                        "user": "Somebody~enwiki",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2002-07-25T22:51:45Z",
+                        "user": "Somebody~enwiki",
+                        "comment": ""
+                    },
+                    {
+                        "timestamp": "2002-07-25T23:20:01Z",
+                        "user": "Mav",
+                        "comment": "Reverting from \"Jews for Jesus\" version"
+                    },
+                    {
+                        "timestamp": "2002-07-26T16:15:44Z",
+                        "user": "Gianfranco",
+                        "comment": "deorphanising [[Saint Joseph]]"
+                    },
+                    {
+                        "anon": "",
+                        "user": "67.28.73.162",
+                        "comment": "",
+                        "timestamp": "2002-07-31T08:27:23Z"
+                    },
+                    {
+                        "timestamp": "2002-07-31T08:48:11Z",
+                        "user": "Wesley",
+                        "comment": "allegedly ascended into *heaven*, not into *the skies*, 40 days after resurrection"
+                    },
+                    {
+                        "timestamp": "2002-07-31T08:49:12Z",
+                        "user": "Wesley",
+                        "comment": "link to Christology"
+                    },
+                    {
+                        "timestamp": "2002-07-31T09:16:56Z",
+                        "user": "Slrubenstein",
+                        "comment": "I hope this is clearer and a little more elegant"
+                    },
+                    {
+                        "timestamp": "2002-07-31T11:01:08Z",
+                        "user": "Wesley",
+                        "comment": "close paren in new sentence; new wording seems much improved"
+                    },
+                    {
+                        "timestamp": "2002-08-01T07:53:42Z",
+                        "user": "Ed Poor",
+                        "comment": "Gospels taken as reinforcing OT prediction of Jesus' birth"
+                    },
+                    {
+                        "timestamp": "2002-08-01T08:01:41Z",
+                        "user": "Wesley",
+                        "comment": "s/wife of/betrothed to/"
+                    },
+                    {
+                        "timestamp": "2002-08-01T08:17:39Z",
+                        "user": "Ed Poor",
+                        "comment": "Jews for Jesus in better context?"
+                    },
+                    {
+                        "timestamp": "2002-08-01T08:18:40Z",
+                        "user": "Ed Poor",
+                        "comment": "brackets"
+                    },
+                    {
+                        "timestamp": "2002-08-01T09:04:16Z",
+                        "user": "Slrubenstein",
+                        "comment": "see talk"
+                    },
+                    {
+                        "timestamp": "2002-08-01T09:22:23Z",
+                        "user": "Ed Poor",
+                        "comment": "good explanation"
+                    },
+                    {
+                        "timestamp": "2002-08-01T09:22:47Z",
+                        "user": "Ed Poor",
+                        "comment": "oops, wrong place (meant talk page)"
+                    },
+                    {
+                        "anon": "",
+                        "user": "12.150.234.75",
+                        "comment": "",
+                        "timestamp": "2002-08-01T10:03:26Z"
+                    },
+                    {
+                        "timestamp": "2002-08-01T10:17:30Z",
+                        "user": "David spector",
+                        "comment": "temple in India, pregnancy due to God"
+                    },
+                    {
+                        "timestamp": "2002-08-01T10:38:45Z",
+                        "user": "David spector",
+                        "comment": "Derivation of \"Jesus\""
+                    }
+                ],
+                "pageid": 1095706,
+                "title": "Jesus"
+            }
+        }
+    },
+    "continue": {
+        "continue": "||",
+        "rvcontinue": "20020801110019|6799603"
+    }
+}
