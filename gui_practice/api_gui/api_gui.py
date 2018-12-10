@@ -1,26 +1,25 @@
 # attempting to gui-fy this api script as part of my fall semester final 2018 @ ccac for python2 taught by eric darsow
-
-
 from bs4 import BeautifulSoup
 import requests
 import json
 import webbrowser
 import tkinter
 
-class api_gui():
+class make_gui():
 	def __init__(self):
 		self.main_window = tkinter.Tk()
+		self.main_window.title('API Project')
 		#self.main_window.geometry('300x200')
-		self.top_frame = tkinter.Frame(self.main_window)
+		#self.top_frame = tkinter.Frame(self.main_window)
 		#self.top_frame.config(bd=1, bg='BLACK') # using this to tinker w/ widget sizes
-		self.mid_frame = tkinter.Frame(self.main_window)
+		#self.mid_frame = tkinter.Frame(self.main_window)
 		#self.mid_frame.config(bd=1, bg='YELLOW') # using this to tinker w/ widget sizes
-		self.bottom_frame = tkinter.Frame(self.main_window)
+		#self.bottom_frame = tkinter.Frame(self.main_window)
 		#self.bottom_frame.config(bd=10,bg='BLUE') # using this to tinker w/ widget sizes
 		self.entry_label = tkinter.Label(self.main_window, text='Who to search?')
 		self.value = tkinter.StringVar() # make a stringvar() to display any text in the error_label
-		self.error_label = tkinter.Label(self.main_window, textvariable=self.value, wraplength=300) # make a label to display any errors,
-		self.entry_label.grid(row=0, padx=5, sticky='W')																# wraplength is measure in pixels
+		self.error_label = tkinter.Label(self.main_window, wraplength=300) # make a label to display any errors,
+		self.entry_label.grid(row=0, padx=5, sticky='E')																# wraplength is measure in pixels
 		self.api_entry = tkinter.Entry(self.main_window)
 		self.api_entry.focus_set()
 		#self.entry_label.pack(expand=True)
@@ -29,7 +28,7 @@ class api_gui():
 		self.search_button = tkinter.Button(self.main_window, text='Generate Webpage', command=self.buildWebpage)
 		self.quit_button = tkinter.Button(self.main_window, text='Quit', command=self.main_window.destroy)
 		self.search_button.grid(row=0, column=2)
-		self.quit_button.grid(row=1, column=2)
+		self.quit_button.grid(row=1, column=2, sticky='NSEW')
 		#self.top_frame.pack()
 		#self.mid_frame.pack()
 		#self.bottom_frame.pack()
@@ -109,7 +108,7 @@ class api_gui():
 
 	def buildWebpage(self, event=None):
 		try:
-			self.value.set('') #resets gui error log if there is one
+			self.error_label.config(text='') #resets gui error log if there is one
 			newComments_fileString, oldComments_fileString = self.generateNewComments()
 			oldCommentList = self.gatherComments(oldComments_fileString)
 			newCommentList = self.gatherComments(newComments_fileString)
@@ -153,92 +152,8 @@ class api_gui():
 			htmlFile.write(prettySoup)
 			webbrowser.open('webpage.html') #opens our webpage right away...neat!
 		except:
-			self.value.set('Something went wrong...changing search case can help...')
+			print('error')
+			self.error_label.config(text='Something went wrong...changing search case can help...')
 
-#	
-#def generateSession():		# generate our web session, url is english wikipedia API
-#	session = requests.Session()
-#	URL = "https://en.wikipedia.org/w/api.php"
-#	return session, URL
-
-#def whoToSearch():
-#	whoToSearch = input("Who to search? >> ")
-#	return whoToSearch
-
-# i had a real bitch of a time collecting the api request and sorting...wiki_revisions.py will show that i was iterating through
-# a loop of ppl names from people.txt and dumping the api data into a file.  however, it was not dumping ONE unique dictionary for ALL persons
-# in the search list...i.e. one donald dict, another hillary dict, in the same file...calling on json.load threw an error...too complicated
-# for my brainlet self to work through....SO....I make a few different methods...this one grabs X of the oldest of edits to the page you search
-#...obviously generateNewComments() gets 20 of the most recent........we return the file to pass to gatherComments() method
-
-
-# pass in the file string name so it is more mobile and can get 'r' priveleges
-# we look through the standard API 'query''pages' dicts to get to the page id
-# and finally the 'revisions' key, which has a list value.  the list contains
-# dicitionarys w/ individual revision info.  one of the keys is 'comment', which
-# is what we want to add to our empty commentList and spit back out
-"""
-def gatherComments(fileString):
-	commentList = []
-	newFile = open(fileString, 'r')
-	newDict = json.load(newFile)
-	searchingText = newDict['query']['pages'] 
-	for page in searchingText:
-		revisionList = searchingText[page]['revisions']
-	for revision in revisionList:
-		if revision['comment'] != '' and len(revision['comment']) > 1:
-			commentList.append(revision['comment'])
-	return commentList
-
-def buildWebpage(who, oldCommentList, newCommentList):
-	soup = BeautifulSoup('<head></head><body></body>', "lxml") #gets a basic <html><body><div> page started
-	relTag = soup.new_tag("link") # make a new link tag
-	relTag.attrs["rel"] = "stylesheet" #edit the rel attributes to tell page link is a css stylesheet
-	relTag.attrs["href"] = "webpage.css"
-	soup.head.append(relTag)
-
-	oldCommentsDiv = soup.new_tag("div", id="oldComments") #make a div to contain old comments
-	soup.body.append(oldCommentsDiv)
-	head_tag = soup.new_tag("h1") # create a header tag
-	head_tag.string = who + " oldest revision comments" # header tag will be person searched for, plus old or new comments
-	oldCommentsDiv.append(head_tag) # put the header tag in our main div class
-
-	#iterate trhough old comment list, creating a p tag each time and appending the comment text
-	#to the tag.  insert after the first header tag
-	for comment in oldCommentList:
-		anotherTag = soup.new_tag("p")
-		anotherTag.string = comment
-		head_tag.insert_after(anotherTag)
-	
-	#create a new div to hold old comments and give it a class slector "oldComments"
-	#append the new div to our soup body
-	newCommentsDiv = soup.new_tag("div", id="newComments")
-	soup.body.append(newCommentsDiv)
-
-	head_tag = soup.new_tag("h1")
-	head_tag.string = who + " newest revision comments"
-	newCommentsDiv.append(head_tag)
-
-	for comment in newCommentList:
-		anotherTag = soup.new_tag("p")
-		anotherTag.string = comment
-		head_tag.insert_after(anotherTag)	
-
-	prettySoup = soup.prettify()
-	print(prettySoup)
-	htmlFile = open('webpage.html', 'w')
-	htmlFile.write(prettySoup)
-	webbrowser.open('webpage.html') #opens our webpage right away...neat!
-	
-def main():
-	session, URL = generateSession()
-	who = whoToSearch()
-	oldFileString = generateOldComments(who, session, URL)
-	newFileString = generateNewComments(who, session, URL)
-	oldCommentList = gatherComments(oldFileString)
-	newCommentList = gatherComments(newFileString)
-	buildWebpage(who, oldCommentList, newCommentList)
-
-main()
-"""
-api_goo = api_gui()
+	def close_gui():
+		self.main_window.destroy()
