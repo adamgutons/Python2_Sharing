@@ -21,7 +21,7 @@ class make_gui():
 		self.error_label = tkinter.Label(self.main_window, wraplength=300) # make a label to display any errors,
 		self.entry_label.grid(row=0, padx=5, sticky='E')																# wraplength is measure in pixels
 		self.api_entry = tkinter.Entry(self.main_window)
-		self.api_entry.focus_set()
+		self.api_entry.focus_set() # sets cursor in entry widget as soon as window loads
 		#self.entry_label.pack(expand=True)
 		self.error_label.grid(column=0, row=1, columnspan=2, padx=10)
 		self.api_entry.grid(row=0, column=1, padx=5)
