@@ -6,7 +6,7 @@ class make_stuff():
 	def __init__(self):
 		self.options = "Administration/Sub-Award, Engineering and Construction, Facility Improvement, Neighborhood and Community Development"
 		self.area_options = "id, status, asset_type, asset_id, area, start_date, area, task_description, budgeted_amount, fiscal_year, inactive, name"
-		self.main_window = tkinter.Tk()
+		self.main_window = tkinter.Toplevel()
 		self.main_window.title('Json Program')
 		self.search_label = tkinter.Label(self.main_window, text='Enter Search Criteria (area, status, asset_type)')
 		self.error_label = tkinter.Label(self.main_window, wraplength=300)

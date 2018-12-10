@@ -7,7 +7,7 @@ import tkinter
 
 class make_gui():
 	def __init__(self):
-		self.main_window = tkinter.Tk()
+		self.main_window = tkinter.Toplevel()
 		self.main_window.title('API Project')
 		#self.main_window.geometry('300x200')
 		#self.top_frame = tkinter.Frame(self.main_window)

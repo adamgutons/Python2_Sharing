@@ -1,234 +1,293 @@
 {
-    "batchcomplete": "",
     "query": {
-        "normalized": [
-            {
-                "from": "hillary clinton",
-                "to": "Hillary clinton"
-            }
-        ],
         "pages": {
-            "12721274": {
+            "3356": {
+                "title": "Bill Clinton",
+                "pageid": 3356,
                 "revisions": [
                     {
-                        "comment": "redirect",
-                        "user": "Seniorpaul",
-                        "timestamp": "2007-08-11T05:55:16Z"
-                    },
-                    {
-                        "comment": "+ {{r from other capitalization}}",
-                        "user": "Meegs",
-                        "timestamp": "2007-08-22T08:23:23Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Rodham Clinton]]",
-                        "user": "72.159.154.3",
+                        "timestamp": "2001-10-26T16:25:00Z",
                         "anon": "",
-                        "timestamp": "2007-09-18T18:24:47Z"
+                        "comment": "builing -> building*",
+                        "user": "212.188.19.xxx"
                     },
                     {
-                        "comment": "Reverted 1 edit by [[Special:Contributions/72.159.154.3|72.159.154.3]].",
-                        "user": "Oxymoron83",
-                        "timestamp": "2007-09-18T18:28:56Z"
+                        "timestamp": "2001-11-17T22:51:50Z",
+                        "comment": "*",
+                        "user": "Wmorrow"
                     },
                     {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Rodham Clinton]]",
-                        "user": "68.47.37.122",
+                        "timestamp": "2001-12-08T22:14:42Z",
                         "anon": "",
-                        "timestamp": "2007-09-18T21:01:18Z"
+                        "comment": "*",
+                        "user": "208.144.114.xxx"
                     },
                     {
+                        "timestamp": "2001-12-09T03:01:09Z",
+                        "anon": "",
+                        "comment": "brady bill, partial birth abortion veto, DOMA veto",
+                        "user": "Alan_D"
+                    },
+                    {
+                        "timestamp": "2001-12-09T08:15:36Z",
+                        "comment": "DADT was implemented in 1993",
+                        "user": "Dmerrill"
+                    },
+                    {
+                        "timestamp": "2001-12-24T18:59:36Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "65.164.176.xxx"
+                    },
+                    {
+                        "timestamp": "2001-12-24T19:21:05Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "65.164.176.xxx"
+                    },
+                    {
+                        "timestamp": "2001-12-24T22:01:27Z",
+                        "comment": "*",
+                        "user": "Andrew Blair"
+                    },
+                    {
+                        "timestamp": "2001-12-24T22:02:27Z",
+                        "comment": "*",
+                        "user": "Andrew Blair"
+                    },
+                    {
+                        "timestamp": "2002-02-24T15:42:27Z",
+                        "anon": "",
+                        "comment": "Automated conversion",
+                        "user": "Conversion script"
+                    },
+                    {
+                        "timestamp": "2002-02-24T16:51:54Z",
+                        "comment": "Added links to elections",
+                        "user": "RobLa"
+                    },
+                    {
+                        "timestamp": "2002-02-25T15:51:15Z",
+                        "anon": "",
+                        "comment": "it's the economy stupid",
+                        "user": "136.186.1.117"
+                    },
+                    {
+                        "timestamp": "2002-04-28T15:20:09Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "203.164.2.75"
+                    },
+                    {
+                        "timestamp": "2002-05-09T07:00:12Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "210.49.193.178"
+                    },
+                    {
+                        "timestamp": "2002-05-09T07:02:23Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "210.49.193.178"
+                    },
+                    {
+                        "timestamp": "2002-05-09T21:44:04Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "210.49.193.178"
+                    },
+                    {
+                        "timestamp": "2002-05-10T15:48:16Z",
+                        "comment": "*",
+                        "user": "AxelBoldt"
+                    },
+                    {
+                        "timestamp": "2002-05-18T16:35:52Z",
+                        "anon": "",
+                        "comment": "*",
+                        "user": "210.49.193.178"
+                    },
+                    {
+                        "timestamp": "2002-05-20T07:39:44Z",
+                        "anon": "",
+                        "comment": "corrections",
+                        "user": "12.14.212.206"
+                    },
+                    {
+                        "timestamp": "2002-05-20T07:50:55Z",
+                        "comment": "revert to previous version (&quot;corrections&quot; were GOP propaganda); minor copyedit while I'm at it.",
+                        "user": "Vicki Rosenzweig"
+                    },
+                    {
+                        "timestamp": "2002-07-31T20:56:49Z",
                         "comment": "",
-                        "user": "Savvyconsumer7",
-                        "timestamp": "2007-10-11T04:19:18Z"
+                        "user": "Danny"
                     },
                     {
+                        "timestamp": "2002-07-31T20:57:29Z",
                         "comment": "",
-                        "user": "138.9.13.211",
-                        "anon": "",
-                        "timestamp": "2007-10-11T08:38:04Z"
+                        "user": "Danny"
                     },
                     {
-                        "comment": "[[WP:UNDO|Undid]] last two revisions",
-                        "user": "Ethan",
-                        "timestamp": "2007-10-12T08:14:45Z"
-                    },
-                    {
+                        "timestamp": "2002-07-31T21:24:14Z",
                         "comment": "",
-                        "user": "Stevenperry08",
-                        "timestamp": "2007-11-01T14:20:15Z"
+                        "user": "Danny"
                     },
                     {
-                        "comment": "Reverted 1 edit by [[Special:Contributions/Stevenperry08|Stevenperry08]] to last version by Ethan0",
-                        "user": "Philip Trueman",
-                        "timestamp": "2007-11-01T14:23:15Z"
+                        "timestamp": "2002-08-07T09:40:00Z",
+                        "comment": "portrait",
+                        "user": "Andre Engels"
                     },
                     {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Rodham Clinton]]",
-                        "user": "12.173.158.254",
+                        "timestamp": "2002-08-13T20:04:10Z",
                         "anon": "",
-                        "timestamp": "2007-12-12T15:54:32Z"
-                    },
-                    {
-                        "comment": "Reverted edits by [[Special:Contributions/12.173.158.254|12.173.158.254]] ([[User talk:12.173.158.254|talk]]) to last version by Philip Trueman",
-                        "user": "Jauerback",
-                        "timestamp": "2007-12-12T15:56:04Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Rodham Clinton, the most idiotic person ever!]]",
-                        "user": "68.0.164.96",
-                        "anon": "",
-                        "timestamp": "2008-01-12T00:23:41Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Rodham Clinton.]]",
-                        "user": "68.0.164.96",
-                        "anon": "",
-                        "timestamp": "2008-01-12T00:24:17Z"
-                    },
-                    {
-                        "comment": "Revert to revision 177446989 dated 2007-12-12 15:56:04 by Jauerback using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
-                        "user": "TML",
-                        "timestamp": "2008-01-12T00:24:31Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Rodham Clinton, the biggest idiot ever!]]",
-                        "user": "68.0.164.96",
-                        "anon": "",
-                        "timestamp": "2008-01-12T00:35:08Z"
-                    },
-                    {
-                        "comment": "BOT - Reverted all consecutive edits by [[Special:contributions/68.0.164.96|68.0.164.96]] {[[User:VoABot_II/Help#Revert_reasons|possible vandalism]]}.",
-                        "user": "VoABot II",
-                        "timestamp": "2008-01-12T00:35:10Z"
-                    },
-                    {
                         "comment": "",
-                        "user": "Yoyo1230",
-                        "timestamp": "2008-02-08T17:11:56Z"
+                        "user": "209.105.200.18"
                     },
                     {
-                        "comment": "Reverted 1 edit by [[Special:Contributions/Yoyo1230|Yoyo1230]] to last version by VoABot II",
-                        "user": "Aitias",
-                        "timestamp": "2008-02-08T17:12:33Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Hillary Clinton]]",
-                        "user": "Californian Treehugger",
-                        "timestamp": "2008-02-23T02:27:28Z"
-                    },
-                    {
-                        "comment": "[[WP:UNDO|Undid]] revision 193408996 by [[Special:Contributions/Thamusemeantfan|Thamusemeantfan]] eliminating double redirect\\",
-                        "user": "Tvoz",
-                        "timestamp": "2008-02-24T01:21:45Z"
-                    },
-                    {
+                        "timestamp": "2002-08-13T20:04:58Z",
+                        "anon": "",
                         "comment": "",
-                        "user": "66.213.107.90",
+                        "user": "209.105.200.18"
+                    },
+                    {
+                        "timestamp": "2002-08-13T20:06:50Z",
                         "anon": "",
-                        "timestamp": "2008-05-23T19:14:01Z"
-                    },
-                    {
-                        "comment": "Reverted edits by [[Special:Contributions/66.213.107.90|66.213.107.90]] ([[User talk:66.213.107.90|talk]]) to last version by Tvoz",
-                        "user": "Xaosflux",
-                        "timestamp": "2008-05-23T19:15:08Z"
-                    },
-                    {
                         "comment": "",
-                        "user": "208.166.197.66",
-                        "anon": "",
-                        "timestamp": "2008-12-11T19:33:57Z"
+                        "user": "209.105.200.18"
                     },
                     {
-                        "comment": "Reverted edits by [[Special:Contributions/208.166.197.66|208.166.197.66]] to last version by Xaosflux ([[WP:HG|HG]])",
-                        "user": "Mygerardromance",
-                        "timestamp": "2008-12-11T19:44:18Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Blanked the page",
-                        "user": "198.78.13.130",
-                        "anon": "",
-                        "timestamp": "2009-01-13T16:06:10Z"
-                    },
-                    {
-                        "comment": "Reverted edits by [[Special:Contributions/198.78.13.130|198.78.13.130]] to last version by Mygerardromance ([[WP:HG|HG]])",
-                        "user": "J.delanoy",
-                        "timestamp": "2009-01-13T16:06:12Z"
-                    },
-                    {
-                        "comment": "[[WP:AES|\u2190]]Redirected page to [[Sir Hillary Rodham Willorford Clinton]]",
-                        "user": "71.113.53.215",
-                        "anon": "",
-                        "timestamp": "2009-03-23T23:27:30Z"
-                    },
-                    {
-                        "comment": "Reverting possible vandalism by [[Special:Contributions/71.113.53.215|71.113.53.215]] to version by J.delanoy. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (644168) (Bot)",
-                        "user": "ClueBot",
-                        "timestamp": "2009-03-23T23:27:32Z"
-                    },
-                    {
-                        "comment": "Robot: Fixing double redirect to [[Hillary Clinton]]",
-                        "user": "AvicBot",
-                        "timestamp": "2013-06-19T00:57:18Z"
-                    },
-                    {
-                        "comment": "Robot: Fixing double redirect to [[Hillary Rodham Clinton]]",
-                        "user": "EmausBot",
-                        "timestamp": "2013-06-19T03:46:25Z"
-                    },
-                    {
-                        "comment": "Robot: Fixing double redirect to [[Hillary Clinton]]",
-                        "user": "AvicBot",
-                        "timestamp": "2013-06-19T04:57:12Z"
-                    },
-                    {
-                        "comment": "Robot: Fixing double redirect to [[Hillary Rodham Clinton]]",
-                        "user": "EmausBot",
-                        "timestamp": "2013-06-28T03:41:33Z"
-                    },
-                    {
+                        "timestamp": "2002-08-13T21:42:01Z",
                         "comment": "",
-                        "user": "208.248.108.23",
-                        "anon": "",
-                        "timestamp": "2014-04-15T15:45:38Z"
+                        "user": "The Cunctator"
                     },
                     {
-                        "comment": "Reverting possible vandalism by [[Special:Contributions/208.248.108.23|208.248.108.23]] to version by EmausBot. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1794499) (Bot)",
-                        "user": "ClueBot NG",
-                        "timestamp": "2014-04-15T15:45:39Z"
-                    },
-                    {
-                        "comment": "Bot: Fixing double redirect to [[Hillary Clinton]]",
-                        "user": "Invadibot",
-                        "timestamp": "2015-06-11T12:11:08Z"
-                    },
-                    {
+                        "timestamp": "2002-08-13T21:42:46Z",
                         "comment": "",
-                        "user": "2601:446:C380:4202:D40D:FFF:5038:FF8E",
+                        "user": "The Cunctator"
+                    },
+                    {
+                        "timestamp": "2002-09-18T21:19:06Z",
                         "anon": "",
-                        "timestamp": "2017-10-23T00:31:16Z"
+                        "comment": "Fix misspelled 'contributor' and 'trafficker'",
+                        "user": "208.142.255.210"
                     },
                     {
-                        "comment": ".",
-                        "user": "Theinstantmatrix",
-                        "timestamp": "2017-10-23T00:31:51Z"
+                        "timestamp": "2002-09-30T04:40:46Z",
+                        "comment": "",
+                        "user": "AxelBoldt"
                     },
                     {
-                        "comment": "[[WP:AES|\u2190]]Replaced content with 'Hi!'",
-                        "user": "2601:446:C380:4202:D40D:FFF:5038:FF8E",
+                        "timestamp": "2002-10-02T13:05:10Z",
+                        "comment": "linked death penalty, removed meta comment",
+                        "user": "Chuck Smith"
+                    },
+                    {
+                        "timestamp": "2002-10-02T13:12:06Z",
+                        "comment": "added \"of America\"",
+                        "user": "Chuck Smith"
+                    },
+                    {
+                        "timestamp": "2002-10-08T15:15:08Z",
                         "anon": "",
-                        "timestamp": "2017-10-23T00:32:58Z"
+                        "comment": "",
+                        "user": "65.198.184.58"
                     },
                     {
-                        "comment": "Reverted edits by [[Special:Contribs/2601:446:C380:4202:D40D:FFF:5038:FF8E|2601:446:C380:4202:D40D:FFF:5038:FF8E]] ([[User talk:2601:446:C380:4202:D40D:FFF:5038:FF8E|talk]]) to last version by Theinstantmatrix",
-                        "user": "PlyrStar93",
-                        "timestamp": "2017-10-23T00:33:17Z"
+                        "timestamp": "2002-10-09T04:01:47Z",
+                        "comment": "Wikify table",
+                        "user": "RobLa"
+                    },
+                    {
+                        "timestamp": "2002-10-09T04:04:32Z",
+                        "comment": "removed blank line from table",
+                        "user": "Bryan Derksen"
+                    },
+                    {
+                        "timestamp": "2002-10-09T17:29:35Z",
+                        "anon": "",
+                        "comment": "",
+                        "user": "168.212.148.94"
+                    },
+                    {
+                        "timestamp": "2002-10-09T17:35:56Z",
+                        "comment": "revert vandalism",
+                        "user": "Gareth Owen"
+                    },
+                    {
+                        "timestamp": "2002-10-10T22:37:15Z",
+                        "anon": "",
+                        "comment": "",
+                        "user": "216.229.90.232"
+                    },
+                    {
+                        "timestamp": "2002-10-10T22:42:15Z",
+                        "anon": "",
+                        "comment": "missing \"r\"",
+                        "user": "216.229.90.232"
+                    },
+                    {
+                        "timestamp": "2002-10-13T16:58:02Z",
+                        "comment": "Wikify profession",
+                        "user": "RobLa"
+                    },
+                    {
+                        "timestamp": "2002-10-18T15:40:10Z",
+                        "comment": "",
+                        "user": "Olivier"
+                    },
+                    {
+                        "timestamp": "2002-10-27T12:40:50Z",
+                        "comment": "",
+                        "user": "JeLuF"
+                    },
+                    {
+                        "timestamp": "2002-11-08T22:13:49Z",
+                        "anon": "",
+                        "comment": "",
+                        "user": "66.65.17.80"
+                    },
+                    {
+                        "timestamp": "2002-11-15T03:27:51Z",
+                        "anon": "",
+                        "comment": "",
+                        "user": "210.49.196.232"
+                    },
+                    {
+                        "timestamp": "2002-11-22T13:50:50Z",
+                        "comment": "sp",
+                        "user": "Derek Ross"
+                    },
+                    {
+                        "timestamp": "2002-11-29T15:57:54Z",
+                        "anon": "",
+                        "comment": "link",
+                        "user": "64.26.98.90"
+                    },
+                    {
+                        "timestamp": "2002-12-19T18:56:09Z",
+                        "comment": "",
+                        "user": "Mav"
+                    },
+                    {
+                        "timestamp": "2002-12-27T07:47:50Z",
+                        "anon": "",
+                        "comment": "",
+                        "user": "65.136.46.52"
+                    },
+                    {
+                        "timestamp": "2002-12-27T08:16:34Z",
+                        "anon": "",
+                        "comment": "re-added mysteriously deleted info",
+                        "user": "216.229.90.120"
                     }
                 ],
-                "pageid": 12721274,
-                "ns": 0,
-                "title": "Hillary clinton"
+                "ns": 0
             }
         }
+    },
+    "continue": {
+        "continue": "||",
+        "rvcontinue": "20021227081708|549680"
     }
 }
