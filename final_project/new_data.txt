@@ -1,0 +1,267 @@
+{
+    "continue": {
+        "rvcontinue": "20181106152435|867568142",
+        "continue": "||"
+    },
+    "query": {
+        "pages": {
+            "3356": {
+                "ns": 0,
+                "title": "Bill Clinton",
+                "pageid": 3356,
+                "revisions": [
+                    {
+                        "timestamp": "2018-12-10T03:42:56Z",
+                        "comment": "/* Governor of Arkansas (1979\u20131981, 1983\u20131992) */ removed redirect links",
+                        "user": "Melvingatez34"
+                    },
+                    {
+                        "timestamp": "2018-12-07T05:57:09Z",
+                        "comment": "",
+                        "user": "Yeungkahchun"
+                    },
+                    {
+                        "timestamp": "2018-12-04T22:52:17Z",
+                        "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1)",
+                        "user": "InternetArchiveBot"
+                    },
+                    {
+                        "timestamp": "2018-12-03T20:26:35Z",
+                        "comment": "/* External links */ not an office or distinction",
+                        "user": "AmYisroelChai"
+                    },
+                    {
+                        "timestamp": "2018-12-02T07:04:31Z",
+                        "comment": "/* External links */",
+                        "user": "Dimadick"
+                    },
+                    {
+                        "timestamp": "2018-12-01T05:19:29Z",
+                        "comment": "/* External links */ ghwb has passed away, no longer in order of precedence",
+                        "user": "Samtondiaz"
+                    },
+                    {
+                        "timestamp": "2018-11-30T16:01:53Z",
+                        "comment": "Undid revision 871302268 by [[Special:Contributions/RainbowSilver2ndBackup|RainbowSilver2ndBackup]] ([[User talk:RainbowSilver2ndBackup|talk]])",
+                        "user": "AmYisroelChai"
+                    },
+                    {
+                        "timestamp": "2018-11-30T04:21:03Z",
+                        "comment": "He had the honor to open the games",
+                        "user": "RainbowSilver2ndBackup"
+                    },
+                    {
+                        "timestamp": "2018-11-29T22:23:03Z",
+                        "comment": "Undid revision 871245652 by [[Special:Contributions/RainbowSilver2ndBackup|RainbowSilver2ndBackup]] ([[User talk:RainbowSilver2ndBackup|talk]])irrelevant",
+                        "user": "AmYisroelChai"
+                    },
+                    {
+                        "timestamp": "2018-11-29T20:47:03Z",
+                        "comment": "/* External links */",
+                        "user": "RainbowSilver2ndBackup"
+                    },
+                    {
+                        "timestamp": "2018-11-27T16:13:32Z",
+                        "comment": "/* External links */recategorize",
+                        "user": "Ser Amantio di Nicolao"
+                    },
+                    {
+                        "timestamp": "2018-11-25T17:23:10Z",
+                        "comment": "removed [[Category:American husbands]] using [[WP:HC|HotCat]] - rv sock",
+                        "user": "Power~enwiki"
+                    },
+                    {
+                        "timestamp": "2018-11-24T15:21:49Z",
+                        "comment": "Rescuing 4 sources and tagging 0 as dead. #IABot (v2.0beta10)",
+                        "user": "InternetArchiveBot"
+                    },
+                    {
+                        "timestamp": "2018-11-23T22:29:17Z",
+                        "comment": "Moving from [[Category:Male saxophonists]] to [[Category:American male saxophonists]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+                        "user": "Ser Amantio di Nicolao"
+                    },
+                    {
+                        "timestamp": "2018-11-23T22:16:09Z",
+                        "comment": "/* top */ no reason for nowrap",
+                        "user": "Muboshgu"
+                    },
+                    {
+                        "timestamp": "2018-11-23T21:59:46Z",
+                        "comment": "Copying from [[Category:American saxophonists]] to [[Category:Male saxophonists]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+                        "user": "Ser Amantio di Nicolao"
+                    },
+                    {
+                        "timestamp": "2018-11-21T08:55:30Z",
+                        "comment": "Reverted edits by [[Special:Contribs/PleaseConsider|PleaseConsider]] ([[User talk:PleaseConsider|talk]]) to last version by Laszlo Panaflex",
+                        "user": "AustralianRupert"
+                    },
+                    {
+                        "timestamp": "2018-11-21T08:50:43Z",
+                        "comment": "",
+                        "user": "PleaseConsider"
+                    },
+                    {
+                        "timestamp": "2018-11-21T02:42:14Z",
+                        "comment": "/* Vietnam War opposition and draft controversy */ ce",
+                        "user": "Laszlo Panaflex"
+                    },
+                    {
+                        "timestamp": "2018-11-21T00:48:10Z",
+                        "comment": "/* Vietnam War opposition and draft controversy */ ce",
+                        "user": "Laszlo Panaflex"
+                    },
+                    {
+                        "timestamp": "2018-11-20T21:49:44Z",
+                        "comment": "/* External links */",
+                        "user": "Ash Carol"
+                    },
+                    {
+                        "timestamp": "2018-11-19T20:40:59Z",
+                        "comment": "/* Scholarly studies */  | [[WP:UCB|Assisted by Citation bot]]",
+                        "user": "Josve05a"
+                    },
+                    {
+                        "timestamp": "2018-11-19T09:28:04Z",
+                        "comment": "Undid revision 869539459 by [[Special:Contributions/Bjdj01|Bjdj01]] ([[User talk:Bjdj01|talk]])",
+                        "user": "Walk Like an Egyptian"
+                    },
+                    {
+                        "timestamp": "2018-11-19T06:58:07Z",
+                        "comment": "",
+                        "user": "Bjdj01"
+                    },
+                    {
+                        "timestamp": "2018-11-19T01:49:11Z",
+                        "comment": "copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]]",
+                        "user": "Smasongarrison"
+                    },
+                    {
+                        "timestamp": "2018-11-17T03:47:48Z",
+                        "comment": "",
+                        "user": "Cerretalogan13"
+                    },
+                    {
+                        "timestamp": "2018-11-16T23:44:01Z",
+                        "comment": "Fixed a typo found with [[Wikipedia:Typo_Team/moss]].",
+                        "user": "Ira Leviton"
+                    },
+                    {
+                        "timestamp": "2018-11-15T02:42:27Z",
+                        "comment": "removed [[Category:United Nations officials]]; added [[Category:American officials of the United Nations]] using [[WP:HC|HotCat]]",
+                        "user": "Good Olfactory"
+                    },
+                    {
+                        "timestamp": "2018-11-11T23:37:08Z",
+                        "comment": "",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T17:17:42Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T17:16:29Z",
+                        "comment": "",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T09:28:16Z",
+                        "comment": "Dating maintenance tags: {{Source needed}}",
+                        "user": "AnomieBOT"
+                    },
+                    {
+                        "timestamp": "2018-11-11T09:07:51Z",
+                        "comment": "/* Sexual misconduct allegations */ ce",
+                        "user": "X4n6"
+                    },
+                    {
+                        "timestamp": "2018-11-11T09:06:49Z",
+                        "comment": "/* Sexual misconduct allegations */ cite",
+                        "user": "X4n6"
+                    },
+                    {
+                        "timestamp": "2018-11-11T00:23:02Z",
+                        "comment": "",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T00:21:41Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T00:19:10Z",
+                        "comment": "gracen alleges adultery, not sexual misconduct",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T00:05:49Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-11T00:00:31Z",
+                        "comment": "Gennifer Flowers should not be mentioned in allegations of sexual misconduct. consensual sex (even adulterous) is not sexual misconduct.",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:59:38Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:58:47Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:57:23Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:52:08Z",
+                        "comment": "this sentence is misleading. His point was that he already apologized, not that an apology wasn't owed.",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:51:35Z",
+                        "comment": "/* Sexual misconduct allegations */",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:50:22Z",
+                        "comment": "",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T23:49:48Z",
+                        "comment": "",
+                        "user": "BugsyBeaver"
+                    },
+                    {
+                        "timestamp": "2018-11-10T10:47:51Z",
+                        "comment": "/* Governor of Arkansas (1979\u20131981, 1983\u20131992) */",
+                        "user": "WNYY98"
+                    },
+                    {
+                        "timestamp": "2018-11-06T22:50:13Z",
+                        "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta9)",
+                        "user": "InternetArchiveBot"
+                    },
+                    {
+                        "timestamp": "2018-11-06T15:28:05Z",
+                        "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/BugsyBeaver|BugsyBeaver]] ([[User talk:BugsyBeaver|talk]]): Politically driven. ([[WP:TW|TW]])",
+                        "user": "Beasting123"
+                    },
+                    {
+                        "timestamp": "2018-11-06T15:26:21Z",
+                        "comment": "",
+                        "user": "BugsyBeaver"
+                    }
+                ]
+            }
+        }
+    }
+}
