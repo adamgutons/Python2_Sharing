@@ -21,6 +21,7 @@ class make_stuff():
 		self.search_button = tkinter.Button(self.main_window, text='Search', command=self.do_it_all)
 		self.quit_button = tkinter.Button(self.main_window, text='Quit', command=self.main_window.destroy)
 		self.search_entry.focus_set()
+		#self.main_window.bind('<Return>', self.do_it_all)
 		self.search_label.grid(row=0, column=0, columnspan=2)
 		self.search_entry.grid(row=1, column=0, columnspan=2, sticky='NSEW')
 		self.area_label.grid(row=2, column=0, columnspan=2)
@@ -116,7 +117,7 @@ class make_stuff():
 	def writeResultsJson(self, searchCriteria, whatToFind, comparedToWhat, searchList, compareList):
 		anotherDict = dict([(whatToFind, searchList), (comparedToWhat, compareList)]) # neat way to build a dicts
 		finalDict = dict([(searchCriteria, anotherDict)]) # build a dict w/ the searchCriteria as key, values are what use3r wants to look for, ex id, budgeted_amount
-		json.dump(finalDict, open('new_data.txt', 'w'), indent=4)
+		json.dump(finalDict, open('json_data.txt', 'w'), indent=4)
 		print("JSON file written...")
 
 	def printSearchResults(self, searchCriteria, whatToFind, comparedToWhat, searchList, compareList):
